@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "Background",
+      "hex": "#FFFFFF",
+      "rgb": [255, 255, 255],
+      "bgr": [255, 255, 255],
+      "description": "Architectural void, negative space, exterior, room interiors"
+    },
+    {
+      "id": 1,
+      "name": "Drywall",
+      "hex": "#00C853",
+      "rgb": [0, 200, 83],
+      "bgr": [83, 200, 0],
+      "description": "Verified Gypsum Wallboard (GWB) partition assemblies"
+    },
+    {
+      "id": 2,
+      "name": "Non-Drywall",
+      "hex": "#D50000",
+      "rgb": [213, 0, 0],
+      "bgr": [0, 0, 213],
+      "description": "CMU masonry (Detail 1A safety veto), concrete piers, glass office fronts"
+    },
+    {
+      "id": 3,
+      "name": "Uncertain",
+      "hex": "#FFD600",
+      "rgb": [255, 214, 0],
+      "bgr": [0, 214, 255],
+      "description": "Generic structural walls, unverified tags, or millwork"
+    }
+  ],
+  "id2label": {
+    "0": "Background",
+    "1": "Drywall",
+    "2": "Non-Drywall",
+    "3": "Uncertain"
+  },
+  "label2id": {
+    "Background": 0,
+    "Drywall": 1,
+    "Non-Drywall": 2,
+    "Uncertain": 3
+  },
+  "0": "Background",
+  "1": "Drywall",
+  "2": "Non-Drywall",
+  "3": "Uncertain"
+}

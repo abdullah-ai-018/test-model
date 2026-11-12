@@ -1,0 +1,2113 @@
+[
+  {
+    "page_index": 0,
+    "page_num": 1,
+    "detected_dwg": [],
+    "line_count": 15,
+    "drawings_count": 13647,
+    "first_lines": [
+      "THE  METROPOLITAN  TRANSPORTATION AUTHORITY",
+      "MTA CONSTRUCTION & DEVELOPMENT",
+      "CONTRACT"
+    ],
+    "last_lines": [
+      "BOROUGH  OF  MANHATTAN",
+      "TPG ARCHITECTURE",
+      "Meir Shapiro",
+      "Project Manager",
+      "DATE",
+      "99TH STREET",
+      "PROJECT",
+      "LOCATION",
+      "PROGRESS SET 95% CDs 10/02/2026",
+      "ARCHITECTURAL INTERIOR SET"
+    ]
+  },
+  {
+    "page_index": 1,
+    "page_num": 2,
+    "detected_dwg": [
+      "A-000",
+      "A-000",
+      "A-000",
+      "A-000",
+      "G-001"
+    ],
+    "line_count": 1371,
+    "drawings_count": 10828,
+    "first_lines": [
+      "BUILDING INFO & CODE SYNOPSIS",
+      "AREA OF WORK",
+      "PLOT PLAN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 2,
+    "page_num": 3,
+    "detected_dwg": [
+      "G-002",
+      "T-001",
+      "G-001",
+      "G-002",
+      "G-003",
+      "G-004",
+      "G-005",
+      "G-006",
+      "LS-100",
+      "LS-101",
+      "LS-102",
+      "LS-103",
+      "LS-104",
+      "LS-105",
+      "A-100",
+      "A-101",
+      "A-102",
+      "A-103",
+      "A-104",
+      "A-105",
+      "A-200",
+      "A-201",
+      "A-202",
+      "A-203",
+      "A-204",
+      "A-300",
+      "A-301",
+      "A-302",
+      "A-303",
+      "A-304",
+      "A-305",
+      "A-306",
+      "A-401",
+      "A-402",
+      "A-403",
+      "A-404",
+      "A-405",
+      "A-406",
+      "A-407",
+      "A-501",
+      "A-502",
+      "A-503",
+      "A-504",
+      "A-601",
+      "A-602",
+      "A-701",
+      "A-702",
+      "A-703",
+      "A-704",
+      "A-705",
+      "A-706",
+      "A-707",
+      "A-708",
+      "A-709",
+      "A-710",
+      "A-800",
+      "A-801",
+      "A-802",
+      "A-803",
+      "A-804",
+      "A-805",
+      "A-900",
+      "A-901",
+      "A-902",
+      "A-903",
+      "A-905",
+      "A-906",
+      "A-907",
+      "A-908",
+      "A-910",
+      "AV-101",
+      "AV-102",
+      "AV-103",
+      "AV-502",
+      "AV-503",
+      "AV-504",
+      "AV-602",
+      "AV-604",
+      "AV-702",
+      "AV-703",
+      "AV-704",
+      "AV-706",
+      "AV-707",
+      "AV-708",
+      "AV-901",
+      "AV-902",
+      "AV-903",
+      "FA-001",
+      "FA-301",
+      "FA-500",
+      "FA-501",
+      "FA-502",
+      "FA-503",
+      "FA-504",
+      "FA-505"
+    ],
+    "line_count": 1166,
+    "drawings_count": 4029,
+    "first_lines": [
+      "SPEC SECTIONS",
+      "024119 - DEMO",
+      "033000 - CAST-IN-PLACE CONCRETE"
+    ],
+    "last_lines": [
+      "TELECOMMUNICATIONS 2ND FLR MDF ROOM PLANS & ELEVATIONS",
+      "\u25cf",
+      "\u25cf",
+      "\u25cf",
+      "TC-901",
+      "TELECOMMUNICATIONS COMPONENT DETAILS I",
+      "\u25cf",
+      "TC-902",
+      "TELECOMMUNICATIONS COMPONENT DETAILS II",
+      "\u25cf"
+    ]
+  },
+  {
+    "page_index": 3,
+    "page_num": 4,
+    "detected_dwg": [
+      "G-003"
+    ],
+    "line_count": 615,
+    "drawings_count": 926,
+    "first_lines": [
+      "1. THE CONTRACTOR SHALL SUBMIT A SUBMITTAL SCHEDULE FOR REVIEW",
+      "AND APPROVAL. THE ARCHITECT'S ACTION IN REVIEWING SUBMITTALS",
+      "SHALL BE TAKEN IN ACCORDANCE WITH THE APPROVED SUBMITTAL"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 4,
+    "page_num": 5,
+    "detected_dwg": [
+      "G-004"
+    ],
+    "line_count": 64,
+    "drawings_count": 205,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "BUILDING LOCATION",
+      "NOTE : \"NOT ON FLOOD PLANE\" THE PROPOSED WORK IS NOT LOCATED IN SPECIAL FLOOD HAZARD AREA\""
+    ]
+  },
+  {
+    "page_index": 5,
+    "page_num": 6,
+    "detected_dwg": [
+      "G-005"
+    ],
+    "line_count": 65,
+    "drawings_count": 195,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 6,
+    "page_num": 7,
+    "detected_dwg": [
+      "G-006"
+    ],
+    "line_count": 62,
+    "drawings_count": 190,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 7,
+    "page_num": 8,
+    "detected_dwg": [
+      "LS-100"
+    ],
+    "line_count": 433,
+    "drawings_count": 10178,
+    "first_lines": [
+      "UP",
+      "UP",
+      "FE"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 8,
+    "page_num": 9,
+    "detected_dwg": [
+      "LS-101"
+    ],
+    "line_count": 652,
+    "drawings_count": 29162,
+    "first_lines": [
+      "DN",
+      "DN",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 9,
+    "page_num": 10,
+    "detected_dwg": [
+      "LS-102"
+    ],
+    "line_count": 602,
+    "drawings_count": 135967,
+    "first_lines": [
+      "DN",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 10,
+    "page_num": 11,
+    "detected_dwg": [
+      "LS-103"
+    ],
+    "line_count": 649,
+    "drawings_count": 118496,
+    "first_lines": [
+      "DN",
+      "UP",
+      "WD"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 11,
+    "page_num": 12,
+    "detected_dwg": [
+      "LS-104"
+    ],
+    "line_count": 631,
+    "drawings_count": 110560,
+    "first_lines": [
+      "DN",
+      "WD",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 12,
+    "page_num": 13,
+    "detected_dwg": [
+      "A-801",
+      "LS-105"
+    ],
+    "line_count": 449,
+    "drawings_count": 10754,
+    "first_lines": [
+      "DN",
+      "A",
+      "B"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 13,
+    "page_num": 14,
+    "detected_dwg": [
+      "A-802",
+      "A-801",
+      "A-801",
+      "A-802",
+      "A-100"
+    ],
+    "line_count": 452,
+    "drawings_count": 10788,
+    "first_lines": [
+      "UP",
+      "UP",
+      "FE"
+    ],
+    "last_lines": [
+      "PROVIDE UTILITY PHONE.",
+      "26",
+      "INCOMING SERVICE FOR LOW VOLTAGE. REFER TO MEP DRAWINGS",
+      "27",
+      "NEW WALL OPENING TO BE COORDINATED WITH MEP AND STRUCTURAL ENGINEER",
+      "28",
+      "EXISTING COLUMN ENCLOSURE TO REMAIN. PROTECT, PATCH, REPAIR, AND PREPARE SURFACE",
+      "TO RECEIVE NEW FINISH.",
+      "29",
+      "6\" DIA. COR DRILL FOR POWER AND DATA. REFER TO STRUCTYURAL DRAWINGS."
+    ]
+  },
+  {
+    "page_index": 14,
+    "page_num": 15,
+    "detected_dwg": [
+      "A-706",
+      "A-706",
+      "A-702",
+      "A-802",
+      "A-801",
+      "A-802",
+      "A-800",
+      "A-706",
+      "A-907",
+      "A-907",
+      "A-901",
+      "A-901",
+      "A-901",
+      "A-901",
+      "A-901",
+      "A-901",
+      "A-901",
+      "A-101"
+    ],
+    "line_count": 571,
+    "drawings_count": 21458,
+    "first_lines": [
+      "DN",
+      "DN",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 15,
+    "page_num": 16,
+    "detected_dwg": [
+      "A-701",
+      "A-701",
+      "A-703",
+      "A-703",
+      "A-802",
+      "A-801",
+      "A-707",
+      "A-801",
+      "A-801",
+      "A-802",
+      "A-802",
+      "A-708",
+      "A-709",
+      "A-703",
+      "A-901",
+      "A-102"
+    ],
+    "line_count": 644,
+    "drawings_count": 89450,
+    "first_lines": [
+      "DN",
+      "UP",
+      "UP"
+    ],
+    "last_lines": [
+      "PROVIDE UTILITY PHONE.",
+      "26",
+      "INCOMING SERVICE FOR LOW VOLTAGE. REFER TO MEP DRAWINGS",
+      "27",
+      "NEW WALL OPENING TO BE COORDINATED WITH MEP AND STRUCTURAL ENGINEER",
+      "28",
+      "EXISTING COLUMN ENCLOSURE TO REMAIN. PROTECT, PATCH, REPAIR, AND PREPARE SURFACE",
+      "TO RECEIVE NEW FINISH.",
+      "29",
+      "6\" DIA. COR DRILL FOR POWER AND DATA. REFER TO STRUCTYURAL DRAWINGS."
+    ]
+  },
+  {
+    "page_index": 16,
+    "page_num": 17,
+    "detected_dwg": [
+      "A-701",
+      "A-704",
+      "A-704",
+      "A-802",
+      "A-708",
+      "A-801",
+      "A-706",
+      "A-801",
+      "A-802",
+      "A-709",
+      "A-708",
+      "A-702",
+      "A-706",
+      "A-103"
+    ],
+    "line_count": 605,
+    "drawings_count": 47167,
+    "first_lines": [
+      "DN",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "PROVIDE UTILITY PHONE.",
+      "26",
+      "INCOMING SERVICE FOR LOW VOLTAGE. REFER TO MEP DRAWINGS",
+      "27",
+      "NEW WALL OPENING TO BE COORDINATED WITH MEP AND STRUCTURAL ENGINEER",
+      "28",
+      "EXISTING COLUMN ENCLOSURE TO REMAIN. PROTECT, PATCH, REPAIR, AND PREPARE SURFACE",
+      "TO RECEIVE NEW FINISH.",
+      "29",
+      "6\" DIA. COR DRILL FOR POWER AND DATA. REFER TO STRUCTYURAL DRAWINGS."
+    ]
+  },
+  {
+    "page_index": 17,
+    "page_num": 18,
+    "detected_dwg": [
+      "A-701",
+      "A-705",
+      "A-705",
+      "A-702",
+      "A-802",
+      "A-801",
+      "A-706",
+      "A-707",
+      "A-707",
+      "A-801",
+      "A-802",
+      "A-902",
+      "A-902",
+      "A-709",
+      "A-710",
+      "A-706",
+      "A-901",
+      "A-710",
+      "A-104"
+    ],
+    "line_count": 645,
+    "drawings_count": 50419,
+    "first_lines": [
+      "DN",
+      "WD",
+      "DN"
+    ],
+    "last_lines": [
+      "PROVIDE UTILITY PHONE.",
+      "26",
+      "INCOMING SERVICE FOR LOW VOLTAGE. REFER TO MEP DRAWINGS",
+      "27",
+      "NEW WALL OPENING TO BE COORDINATED WITH MEP AND STRUCTURAL ENGINEER",
+      "28",
+      "EXISTING COLUMN ENCLOSURE TO REMAIN. PROTECT, PATCH, REPAIR, AND PREPARE SURFACE",
+      "TO RECEIVE NEW FINISH.",
+      "29",
+      "6\" DIA. COR DRILL FOR POWER AND DATA. REFER TO STRUCTYURAL DRAWINGS."
+    ]
+  },
+  {
+    "page_index": 18,
+    "page_num": 19,
+    "detected_dwg": [
+      "A-801",
+      "A-710",
+      "A-105"
+    ],
+    "line_count": 432,
+    "drawings_count": 8672,
+    "first_lines": [
+      "DN",
+      "A",
+      "B"
+    ],
+    "last_lines": [
+      "PROVIDE UTILITY PHONE.",
+      "26",
+      "INCOMING SERVICE FOR LOW VOLTAGE. REFER TO MEP DRAWINGS",
+      "27",
+      "NEW WALL OPENING TO BE COORDINATED WITH MEP AND STRUCTURAL ENGINEER",
+      "28",
+      "EXISTING COLUMN ENCLOSURE TO REMAIN. PROTECT, PATCH, REPAIR, AND PREPARE SURFACE",
+      "TO RECEIVE NEW FINISH.",
+      "29",
+      "6\" DIA. COR DRILL FOR POWER AND DATA. REFER TO STRUCTYURAL DRAWINGS."
+    ]
+  },
+  {
+    "page_index": 19,
+    "page_num": 20,
+    "detected_dwg": [
+      "A-200"
+    ],
+    "line_count": 387,
+    "drawings_count": 10995,
+    "first_lines": [
+      "VERIFY ALL LIGHT",
+      "FIXTURES LOCATIONS IN",
+      "FIELD AND CONSULT AOR"
+    ],
+    "last_lines": [
+      "11",
+      "VERIFY ALL LIGHT FIXTURES LOCATIONS IN FIELD AND CONSULT AOR BEFORE",
+      "INSTALLATION, TYPICAL THROUGHOUT.",
+      "12",
+      "SCHEDULED WINDOW SHADE. REFER TO FINISH SCHEDULE WT-1 AND SHEET",
+      "A-906 FOR CEILING DETAILS",
+      "13",
+      "ADD ALTERNATE: GC TO PROVIDE ALTERNATE PRICING OPTION FOR ALL L14,",
+      "L14A SUSPENDED LINEAR LIGHTING FIXTURES IN OPEN AREAS TO BE",
+      "DIRECT/INDIRECT ON THE 3RD FLOOR ONLY."
+    ]
+  },
+  {
+    "page_index": 20,
+    "page_num": 21,
+    "detected_dwg": [
+      "A-906",
+      "A-201"
+    ],
+    "line_count": 560,
+    "drawings_count": 38025,
+    "first_lines": [
+      "A",
+      "B",
+      "C"
+    ],
+    "last_lines": [
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/8\" = 1'-0\"",
+      "01TOOL CRIB RCP'S @ FIRST FLOOR"
+    ]
+  },
+  {
+    "page_index": 21,
+    "page_num": 22,
+    "detected_dwg": [
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-905",
+      "A-905",
+      "A-905",
+      "A-905",
+      "A-906",
+      "A-906",
+      "A-202"
+    ],
+    "line_count": 784,
+    "drawings_count": 43143,
+    "first_lines": [
+      "C",
+      "D",
+      "E"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 22,
+    "page_num": 23,
+    "detected_dwg": [
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-203"
+    ],
+    "line_count": 657,
+    "drawings_count": 67418,
+    "first_lines": [
+      "A",
+      "B",
+      "C"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 23,
+    "page_num": 24,
+    "detected_dwg": [
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-902",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-906",
+      "A-801",
+      "A-204"
+    ],
+    "line_count": 699,
+    "drawings_count": 618536,
+    "first_lines": [
+      "40.0 K",
+      "3'-6\" MIN.",
+      "CLEAR SPACE"
+    ],
+    "last_lines": [
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/8\" = 1'-0\"",
+      "STAIR A BULKHEAD",
+      "01",
+      "SCALE:   1/8\" = 1'-0\"",
+      "ROOF STORAGE RM.",
+      "3"
+    ]
+  },
+  {
+    "page_index": 24,
+    "page_num": 25,
+    "detected_dwg": [
+      "A-300"
+    ],
+    "line_count": 364,
+    "drawings_count": 9381,
+    "first_lines": [
+      "UP",
+      "UP",
+      "FE"
+    ],
+    "last_lines": [
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/8\" = 1'-0\"",
+      "Level 0 - CELLAR POWER & COMM PLAN",
+      "1"
+    ]
+  },
+  {
+    "page_index": 25,
+    "page_num": 26,
+    "detected_dwg": [
+      "A-301"
+    ],
+    "line_count": 466,
+    "drawings_count": 19008,
+    "first_lines": [
+      "J",
+      "DN",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 26,
+    "page_num": 27,
+    "detected_dwg": [
+      "A-302"
+    ],
+    "line_count": 571,
+    "drawings_count": 120874,
+    "first_lines": [
+      "J",
+      "J",
+      "J"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 27,
+    "page_num": 28,
+    "detected_dwg": [
+      "A-303"
+    ],
+    "line_count": 654,
+    "drawings_count": 84502,
+    "first_lines": [
+      "DN",
+      "UP",
+      "J"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 28,
+    "page_num": 29,
+    "detected_dwg": [
+      "A-304"
+    ],
+    "line_count": 691,
+    "drawings_count": 81424,
+    "first_lines": [
+      "AV",
+      "J",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "5",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 29,
+    "page_num": 30,
+    "detected_dwg": [
+      "A-305"
+    ],
+    "line_count": 331,
+    "drawings_count": 8044,
+    "first_lines": [
+      "POWER & COMMUNICATIONS LEGEND",
+      "INDICATES NEW WALL MOUNTED DUPLEX ELECTRICAL OUTLET/RECEPTACLE,",
+      "MOUNTED AT 15\" A.F.F., U.O.N."
+    ],
+    "last_lines": [
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "6",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/8\" = 1'-0\"",
+      "Level 5 - ROOF POWER & COMM PLAN",
+      "1"
+    ]
+  },
+  {
+    "page_index": 30,
+    "page_num": 31,
+    "detected_dwg": [
+      "A-306"
+    ],
+    "line_count": 788,
+    "drawings_count": 2148,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 31,
+    "page_num": 32,
+    "detected_dwg": [
+      "A-401"
+    ],
+    "line_count": 335,
+    "drawings_count": 15894,
+    "first_lines": [
+      "DN",
+      "DN",
+      "UP"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 32,
+    "page_num": 33,
+    "detected_dwg": [
+      "A-402"
+    ],
+    "line_count": 374,
+    "drawings_count": 83023,
+    "first_lines": [
+      "DN",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 33,
+    "page_num": 34,
+    "detected_dwg": [
+      "A-403"
+    ],
+    "line_count": 432,
+    "drawings_count": 17334,
+    "first_lines": [
+      "DN",
+      "UP",
+      "WD"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 34,
+    "page_num": 35,
+    "detected_dwg": [
+      "A-404"
+    ],
+    "line_count": 444,
+    "drawings_count": 17321,
+    "first_lines": [
+      "DN",
+      "WD",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 35,
+    "page_num": 36,
+    "detected_dwg": [
+      "A-405"
+    ],
+    "line_count": 194,
+    "drawings_count": 3878,
+    "first_lines": [
+      "NOTE:",
+      "G.C. TO PROVIDE UNDERLAYMENT TO",
+      "ACCOMMODATE UNIFORM FLOORING"
+    ],
+    "last_lines": [
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   6\" = 1'-0\"",
+      "T8CARPET TO VCT"
+    ]
+  },
+  {
+    "page_index": 36,
+    "page_num": 37,
+    "detected_dwg": [
+      "A-406"
+    ],
+    "line_count": 657,
+    "drawings_count": 1041,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "INFORMATION.",
+      "DESC.: SLIP RESISTANT CONCRETE FLOOR PAINT",
+      "LOCATION: SEE FINISH PLAN",
+      "MFR: BENJAMIN MOORE",
+      "COLOR: GREY 2121-10",
+      "FINISH: SATIN (CV392), SLIP-RESISTANT",
+      "CONTACT: RODGER LIPPMAN, (848) 702-0239",
+      "RODGER.LIPPMAN@BENJAMINMOORE.COM",
+      "NOTE: INSTALL PER MANUFACTURERS RECOMMENDATION",
+      "CF-2"
+    ]
+  },
+  {
+    "page_index": 37,
+    "page_num": 38,
+    "detected_dwg": [
+      "A-407"
+    ],
+    "line_count": 324,
+    "drawings_count": 564,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "WT-1",
+      "DESC.: CORNER GUARDS",
+      "LOCATION: 1ST FLOOR ENTRY MAIL AREA MILLWORK",
+      "MFR: TBD",
+      "STYLE: CLEAR CORNER GUARDS",
+      "COLOR: CLEAR",
+      "CONTACT: TBD",
+      "NOTE: INSTALL PER MFR'S RECOMMENDATION.",
+      "REFER TO FINISH PLAN FOR LOCATION.",
+      "CG-1"
+    ]
+  },
+  {
+    "page_index": 38,
+    "page_num": 39,
+    "detected_dwg": [
+      "A-500"
+    ],
+    "line_count": 112,
+    "drawings_count": 7638,
+    "first_lines": [
+      "UP",
+      "UP",
+      "FE"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 39,
+    "page_num": 40,
+    "detected_dwg": [
+      "A-501"
+    ],
+    "line_count": 191,
+    "drawings_count": 18903,
+    "first_lines": [
+      "DN",
+      "DN",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 40,
+    "page_num": 41,
+    "detected_dwg": [
+      "A-502"
+    ],
+    "line_count": 230,
+    "drawings_count": 118793,
+    "first_lines": [
+      "DN",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 41,
+    "page_num": 42,
+    "detected_dwg": [
+      "A-503"
+    ],
+    "line_count": 260,
+    "drawings_count": 79975,
+    "first_lines": [
+      "DN",
+      "UP",
+      "WD"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 42,
+    "page_num": 43,
+    "detected_dwg": [
+      "A-504"
+    ],
+    "line_count": 270,
+    "drawings_count": 71104,
+    "first_lines": [
+      "DN",
+      "WD",
+      "A"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 43,
+    "page_num": 44,
+    "detected_dwg": [
+      "A-505"
+    ],
+    "line_count": 101,
+    "drawings_count": 6791,
+    "first_lines": [
+      "DN",
+      "A",
+      "B"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 44,
+    "page_num": 45,
+    "detected_dwg": [
+      "A-601"
+    ],
+    "line_count": 983,
+    "drawings_count": 4108,
+    "first_lines": [
+      "TYPE 'A'",
+      "HOLLOW METAL DOOR 1-1/2 HR",
+      "RATED W/ 100 SQ. FT LITE GLASS"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 45,
+    "page_num": 46,
+    "detected_dwg": [
+      "A-602"
+    ],
+    "line_count": 167,
+    "drawings_count": 10268,
+    "first_lines": [
+      "CAULK FRAME",
+      "AT WALL (TYP.)",
+      "SCHEDULED PARTITION"
+    ],
+    "last_lines": [
+      "4",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   3\" = 1'-0\"",
+      "01BUTT GLASS DETAIL @ SINGLE GLAZED"
+    ]
+  },
+  {
+    "page_index": 46,
+    "page_num": 47,
+    "detected_dwg": [
+      "A-701",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-906",
+      "A-701",
+      "A-805",
+      "A-805",
+      "A-906",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-701",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-906",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-701"
+    ],
+    "line_count": 564,
+    "drawings_count": 40127,
+    "first_lines": [
+      "WD",
+      "WD",
+      "WD"
+    ],
+    "last_lines": [
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "3/4\" WOOD BRACKETS AT EACH END MOUNTED",
+      "ON METAL CLEATS OR METAL ANGLES, SEE",
+      "DETAIL #9, A-805"
+    ]
+  },
+  {
+    "page_index": 47,
+    "page_num": 48,
+    "detected_dwg": [
+      "A-702",
+      "A-702",
+      "A-702",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-805",
+      "A-702",
+      "A-702"
+    ],
+    "line_count": 432,
+    "drawings_count": 28683,
+    "first_lines": [
+      "G",
+      "1",
+      "A-702"
+    ],
+    "last_lines": [
+      "13TYP. WALL TRANSITION DETAIL",
+      "SCALE:   3/8\" = 1'-0\"",
+      "4TH FL. EXEC. REST. ELEVATION 5",
+      "10",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)"
+    ]
+  },
+  {
+    "page_index": 48,
+    "page_num": 49,
+    "detected_dwg": [
+      "A-703",
+      "A-703",
+      "A-703",
+      "A-703",
+      "A-703",
+      "A-703",
+      "A-703"
+    ],
+    "line_count": 476,
+    "drawings_count": 97463,
+    "first_lines": [
+      "17\" MAX",
+      "24\"",
+      "OPEN TO"
+    ],
+    "last_lines": [
+      "10-02-26",
+      "FA",
+      "2ND FL. WOMENS RR. ELEV.SCALE:   3/8\" = 1'-0\"",
+      "03",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)"
+    ]
+  },
+  {
+    "page_index": 49,
+    "page_num": 50,
+    "detected_dwg": [
+      "A-805",
+      "A-805",
+      "A-704",
+      "A-704",
+      "A-704"
+    ],
+    "line_count": 391,
+    "drawings_count": 28696,
+    "first_lines": [
+      "34\" MAX",
+      "SK2",
+      "SK2"
+    ],
+    "last_lines": [
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)"
+    ]
+  },
+  {
+    "page_index": 50,
+    "page_num": 51,
+    "detected_dwg": [
+      "A-805",
+      "A-805",
+      "A-705",
+      "A-705",
+      "A-705"
+    ],
+    "line_count": 361,
+    "drawings_count": 26616,
+    "first_lines": [
+      "34\" MAX",
+      "40\" MAX.",
+      "SD2"
+    ],
+    "last_lines": [
+      "5",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)",
+      "NOTE:",
+      "PROVIDE WOOD BLOCKING",
+      "FOR GRAB BARS (TYP.)"
+    ]
+  },
+  {
+    "page_index": 51,
+    "page_num": 52,
+    "detected_dwg": [
+      "A-805",
+      "A-706",
+      "A-706",
+      "A-901",
+      "A-706"
+    ],
+    "line_count": 339,
+    "drawings_count": 25420,
+    "first_lines": [
+      "UP",
+      "+- 8'-0\" CH",
+      "+- 0'-0\""
+    ],
+    "last_lines": [
+      "SCALE:   3/8\" = 1'-0\"",
+      "LOBBY GLASS ENTRANCE DOORS",
+      "10",
+      "SCALE:   3/8\" = 1'-0\"",
+      "053RD FL. ELEVATION - MAIL AREA 1",
+      "SCALE:   3/8\" = 1'-0\"",
+      "3RD FL. ELEVATION - MAIL AREA 2",
+      "06",
+      "SCALE:   3/8\" = 1'-0\"",
+      "034TH FLOOR EXECUTIVE SUITE ELEVATION"
+    ]
+  },
+  {
+    "page_index": 52,
+    "page_num": 53,
+    "detected_dwg": [
+      "A-901",
+      "A-707"
+    ],
+    "line_count": 195,
+    "drawings_count": 5671,
+    "first_lines": [
+      "+- 8'-0\" CH",
+      "+- 0'-0\"",
+      "TV3"
+    ],
+    "last_lines": [
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   3/8\" = 1'-0\"",
+      "07SAFETY MEETING ROOM - ELEVATION 1",
+      "SCALE:   3/8\" = 1'-0\"",
+      "08SAFETY MEETING ROOM - ELEVATION 2"
+    ]
+  },
+  {
+    "page_index": 53,
+    "page_num": 54,
+    "detected_dwg": [
+      "A-708"
+    ],
+    "line_count": 216,
+    "drawings_count": 12506,
+    "first_lines": [
+      "11' - 5\"",
+      "10' - 4\"",
+      "18' - 0\""
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 54,
+    "page_num": 55,
+    "detected_dwg": [
+      "A-709"
+    ],
+    "line_count": 155,
+    "drawings_count": 1434,
+    "first_lines": [
+      "67\u00b0",
+      "19' - 1\"",
+      "8' - 0\""
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 55,
+    "page_num": 56,
+    "detected_dwg": [
+      "A-710"
+    ],
+    "line_count": 127,
+    "drawings_count": 2663,
+    "first_lines": [
+      "9' - 2 1/4\"",
+      "15' - 11\"",
+      "51\u00b0"
+    ],
+    "last_lines": [
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   3/8\" = 1'-0\"",
+      "04ELEVATION - 4TH FLOOR WORKSTATIONS 4",
+      "SCALE:   3/8\" = 1'-0\"",
+      "05ELEVATION - 4TH FLOOR WORKSTATIONS 5"
+    ]
+  },
+  {
+    "page_index": 56,
+    "page_num": 57,
+    "detected_dwg": [
+      "A-800",
+      "A-800",
+      "A-800",
+      "A-800",
+      "A-800",
+      "A-800"
+    ],
+    "line_count": 281,
+    "drawings_count": 14517,
+    "first_lines": [
+      "DN",
+      "C",
+      "D"
+    ],
+    "last_lines": [
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/2\" = 1'-0\"",
+      "RAMP CROSS SECTION",
+      "5",
+      "SCALE:   3/8\" = 1'-0\"",
+      "1ST FLOOR RAMP RAILING",
+      "6"
+    ]
+  },
+  {
+    "page_index": 57,
+    "page_num": 58,
+    "detected_dwg": [
+      "A-803",
+      "A-803",
+      "A-803",
+      "A-803",
+      "A-804",
+      "A-801"
+    ],
+    "line_count": 602,
+    "drawings_count": 33795,
+    "first_lines": [
+      "UP",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   1/4\" = 1'-0\"",
+      "STAIR A - ROOF PLAN",
+      "8",
+      "UP",
+      "G.C. TO SUBMIT ENGINEERING CALCULATION BY NY LICENSED ENGINEER FOR STAIR FRAMINGS"
+    ]
+  },
+  {
+    "page_index": 58,
+    "page_num": 59,
+    "detected_dwg": [
+      "A-803",
+      "A-803",
+      "A-803",
+      "A-701",
+      "A-802"
+    ],
+    "line_count": 460,
+    "drawings_count": 31030,
+    "first_lines": [
+      "UP",
+      "UP",
+      "DN"
+    ],
+    "last_lines": [
+      "FA/SB",
+      "3",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "4",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "G.C. TO SUBMIT ENGINEERING CALCULATION BY NY LICENSED ENGINEER FOR STAIR FRAMINGS"
+    ]
+  },
+  {
+    "page_index": 59,
+    "page_num": 60,
+    "detected_dwg": [
+      "A-803"
+    ],
+    "line_count": 318,
+    "drawings_count": 20414,
+    "first_lines": [
+      "3\"",
+      "MC 8 X 11.5",
+      "STRINGER TYP."
+    ],
+    "last_lines": [
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "06STAIR - DETAIL @ MID LANDING. STAGGERED (A)SCALE:   1 1/2\" = 1'-0\"",
+      "STAIR - DETAIL @ MID LANDING. STAGGERED (B)SCALE:   1 1/2\" = 1'-0\"",
+      "07",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "02STAIR - DETAIL @ BOT. LAND. W/ GUARD RAIL",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "03STAIR - DETAIL @ TOP LAND. W/ GUARD RAIL"
+    ]
+  },
+  {
+    "page_index": 60,
+    "page_num": 61,
+    "detected_dwg": [
+      "A-804"
+    ],
+    "line_count": 173,
+    "drawings_count": 8297,
+    "first_lines": [
+      "1 1/2\"",
+      "4\"",
+      "TS 1 1/2\" x 1 1/2\" x 3/16\" END POST, FULL"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 61,
+    "page_num": 62,
+    "detected_dwg": [
+      "A-805",
+      "A-805"
+    ],
+    "line_count": 509,
+    "drawings_count": 35948,
+    "first_lines": [
+      "EXTERIOR FINISH:",
+      "INTERIOR FINISH:",
+      "COUNTER TOP FINISH:"
+    ],
+    "last_lines": [
+      "FA",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "BASE CABINET WITH APPLIANCE",
+      "9",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "BAR COUNTERTOP WITH SUPPORT BRACKET",
+      "10",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "LOBBY COUNTER AND SHELF DETAIL",
+      "6"
+    ]
+  },
+  {
+    "page_index": 62,
+    "page_num": 63,
+    "detected_dwg": [
+      "A-900"
+    ],
+    "line_count": 391,
+    "drawings_count": 14734,
+    "first_lines": [
+      "6\"",
+      "(1) LAYER OF 5/8\" GYPSUM WALL",
+      "BOARD ON EACH SIDE OF METAL"
+    ],
+    "last_lines": [
+      "PARTITION TYPE DETAIL 1D",
+      "1D",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "PARTITION TYPE DETAIL 1E",
+      "1E",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "PARTITION TYPE DETAIL 5B - 1 HR RATED",
+      "5B",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "1APARTITION TYPE DETAIL 1A - 1 HR RATED"
+    ]
+  },
+  {
+    "page_index": 63,
+    "page_num": 64,
+    "detected_dwg": [
+      "A-901"
+    ],
+    "line_count": 367,
+    "drawings_count": 25778,
+    "first_lines": [
+      "INFINIUM QUANTUM SINGLE",
+      "BUTT-GLAZED CENTER OFFICE",
+      "FRONT SYSTEM"
+    ],
+    "last_lines": [
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "SCALE:   3\" = 1'-0\"",
+      "10TYP. STEEL COLUMN ENCLOSURE",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "TYP. CONCRETE ENCASED STEEL COLUMN",
+      "11",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "09SECTION @ TV SCREEN"
+    ]
+  },
+  {
+    "page_index": 64,
+    "page_num": 65,
+    "detected_dwg": [
+      "A-902",
+      "A-902"
+    ],
+    "line_count": 115,
+    "drawings_count": 12421,
+    "first_lines": [
+      "G",
+      "H",
+      "2.2"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 65,
+    "page_num": 66,
+    "detected_dwg": [
+      "A-903"
+    ],
+    "line_count": 100,
+    "drawings_count": 5405,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "S6",
+      "SCALE 6\" = 1''-0\"",
+      "RESTROOM IDENTIFICATION SIGN",
+      "S7",
+      "SCALE 6\" = 1''-0\"",
+      "ALL GENDER TOILET SIGN",
+      "S8",
+      "SCALE 6\" = 1''-0\"",
+      "MENS",
+      "WOMENS"
+    ]
+  },
+  {
+    "page_index": 66,
+    "page_num": 67,
+    "detected_dwg": [
+      "A-905"
+    ],
+    "line_count": 371,
+    "drawings_count": 9438,
+    "first_lines": [
+      "REFER TO RCP",
+      "CEILING HEIGHT",
+      "INDICATES WALL PARTITION. (SEE"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  },
+  {
+    "page_index": 67,
+    "page_num": 68,
+    "detected_dwg": [
+      "A-906"
+    ],
+    "line_count": 273,
+    "drawings_count": 9302,
+    "first_lines": [
+      "1/4\" DIA. METAL ROD OR 1/8\"",
+      "FLAT STRAP HANGER SECURED",
+      "TO STRUCTURE ABOVE. NOT TO"
+    ],
+    "last_lines": [
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA",
+      "WIN. POCKET DET. @ ENCLOSED OFFICE AREASSCALE:   1 1/2\" = 1'-0\"",
+      "08",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "09WIN. SHADE DET. @ OPEN OFFICE AREAS"
+    ]
+  },
+  {
+    "page_index": 68,
+    "page_num": 69,
+    "detected_dwg": [
+      "A-907",
+      "A-907",
+      "A-907"
+    ],
+    "line_count": 119,
+    "drawings_count": 3392,
+    "first_lines": [
+      "EXISTING CMU WALL TO REMAIN",
+      "NEW WALL TO EXISTING DECK",
+      "3"
+    ],
+    "last_lines": [
+      "FA",
+      "SCALE:   3/8\" = 1'-0\"",
+      "CLERESTORY ELEVATION - SOUTH",
+      "1",
+      "SCALE:   3/8\" = 1'-0\"",
+      "CLERESTORY ELEVATION - WEST",
+      "2",
+      "SCALE:   1 1/2\" = 1'-0\"",
+      "CLERSETORY SECTION",
+      "3"
+    ]
+  },
+  {
+    "page_index": 69,
+    "page_num": 70,
+    "detected_dwg": [
+      "A-908"
+    ],
+    "line_count": 70,
+    "drawings_count": 234,
+    "first_lines": [
+      "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+      "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+      "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY"
+    ],
+    "last_lines": [
+      "1",
+      "SCALE:",
+      "1ST FLOOR - ENTRY VESTIBULE AXON VIEW 2",
+      "2",
+      "SCALE:",
+      "Trash Room Axon",
+      "3",
+      "SCALE:",
+      "Trash Room Axon 2",
+      "4"
+    ]
+  },
+  {
+    "page_index": 70,
+    "page_num": 71,
+    "detected_dwg": [
+      "A-910"
+    ],
+    "line_count": 267,
+    "drawings_count": 18040,
+    "first_lines": [
+      "SINGLE CABLE (TYPE VARIES)",
+      "GYPSUM WALL BOARD AND METAL",
+      "STUD PARTITION (REFER TO"
+    ],
+    "last_lines": [
+      "07-10-26",
+      "FA/SB",
+      "2",
+      "ISSUE FOR 50% CD",
+      "08-17-26",
+      "CP",
+      "3",
+      "95% CD",
+      "10-02-26",
+      "FA"
+    ]
+  }
+]

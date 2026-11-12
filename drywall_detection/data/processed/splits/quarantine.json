@@ -1,0 +1,112 @@
+{
+  "split_name": "quarantine",
+  "version": "1.0",
+  "count": 5,
+  "tiles": [
+    {
+      "sample_id": "MTA_99TH_PSEUDO_A-105",
+      "project_id": "mta_99th_street_quarantine",
+      "drawing_id": "MTA_99TH_A-105",
+      "image_path": "",
+      "mask_path": "",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 0,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": true,
+      "quarantine": true
+    },
+    {
+      "sample_id": "MTA_99TH_PSEUDO_A-106",
+      "project_id": "mta_99th_street_quarantine",
+      "drawing_id": "MTA_99TH_A-106",
+      "image_path": "",
+      "mask_path": "",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 0,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": true,
+      "quarantine": true
+    },
+    {
+      "sample_id": "MTA_99TH_PSEUDO_A-200",
+      "project_id": "mta_99th_street_quarantine",
+      "drawing_id": "MTA_99TH_A-200",
+      "image_path": "",
+      "mask_path": "",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 0,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": true,
+      "quarantine": true
+    },
+    {
+      "sample_id": "MTA_99TH_PSEUDO_A-300",
+      "project_id": "mta_99th_street_quarantine",
+      "drawing_id": "MTA_99TH_A-300",
+      "image_path": "",
+      "mask_path": "",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 0,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": true,
+      "quarantine": true
+    },
+    {
+      "sample_id": "MTA_99TH_PSEUDO_A-400",
+      "project_id": "mta_99th_street_quarantine",
+      "drawing_id": "MTA_99TH_A-400",
+      "image_path": "",
+      "mask_path": "",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 0,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": true,
+      "quarantine": true
+    }
+  ]
+}

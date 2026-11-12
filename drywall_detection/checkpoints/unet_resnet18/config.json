@@ -1,0 +1,35 @@
+{
+  "model_name": "drywall_unet_resnet18",
+  "architecture": "unet",
+  "backbone": "resnet18",
+  "num_classes": 4,
+  "input_channels": 3,
+  "input_resolution": [
+    512,
+    512
+  ],
+  "total_parameters": 14343524,
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "training_hyperparameters": {
+    "batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.01,
+    "optimizer": "AdamW",
+    "scheduler": "CosineAnnealingLR",
+    "loss": "CompoundSegmentationLoss"
+  },
+  "hardware_trained_on": "CPU (Intel physical cores)",
+  "date_created": "2026-11-08T19:34:42Z"
+}

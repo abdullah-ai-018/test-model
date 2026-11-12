@@ -1,0 +1,629 @@
+Wall & Partition Type Data — JSON
+Structured transcription from original drawing sheets A-900 and A-901 (PDF pages 63–64). Unclear or unassigned values are marked null; refer
+to the original drawings before construction or procurement.
+{
+  "document": {
+    "title": "Wall and Partition Type Data",
+    "project": "MTA - 99th Street - Phase 2 Interior",
+    "address": "1782 3rd Ave, New York, NY 10029",
+    "source_file": "file-1793194362940-560626729(1).pdf",
+    "source_pages": [
+      63,
+      64
+    ],
+    "drawing_numbers": [
+      "A-900",
+      "A-901"
+    ],
+    "drawing_titles": [
+      "Partition Types Sheet I",
+      "Partition Types Sheet II"
+    ],
+    "drawing_status": "IN PROGRESS - NOT FOR CONSTRUCTION",
+    "source_date": "05/07/2025",
+    "extraction_note": "Data is transcribed from the two partition-type drawing sheets. Where a callout is unclear or the OCR/text alignment does not s
+  },
+  "partition_types": [
+    {
+      "tag": "1A",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 1A - 1 HR RATED",
+      "fire_rating": "1 hour",
+      "assembly": [
+        "6 inch fire-rated CMU masonry block is called out in the detail"
+      ],
+      "metal_stud": null,
+      "gypsum_board": null,
+      "insulation": null,
+      "other_requirements": [
+        "Top and bottom conditions are shown in the drawing; verify full assembly from the original detail."
+      ],
+      "confidence_note": "The visible detail explicitly identifies 6 inch fire-rated CMU masonry block; do not classify this as a standard gypsum-stud 
+    },
+    {
+      "tag": "1B",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 1B",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "2 1/2 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 13 feet; for partition heights over 13 feet to 17 feet use 20 GA studs; for 17 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Secure channel runner to structure above and below with fasteners as required.",
+        "Metal-stud bracing at 48 inch O.C. maximum; provide additional bracing at each door header."
+      ],
+      "confidence_note": "Stud and height callouts are visible in the A-900 sheet; confirm exact applicability to this tag against the drawing panel be
+    },
+    {
+      "tag": "1C",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 1C",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 17 feet; heights over 17 feet to 22 feet use 20 GA studs; over 22 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Secure channel runners to structure above and below with fasteners as required.",
+        "Metal-stud bracing at 48 inch O.C. maximum; additional bracing at door headers."
+
+      ],
+      "confidence_note": "The drawing text includes these stud and board callouts; verify the precise tag-to-callout association on the original sheet.
+    },
+    {
+      "tag": "1D",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 1D",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "6 inch",
+        "gauge": "16 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 8 feet maximum"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Secure metal channel runner to structure above and below with fasteners as required."
+      ],
+      "confidence_note": "The 6 inch, 16 GA, 16 inch O.C., 8 foot maximum callout appears in the 1D detail area."
+    },
+    {
+      "tag": "1E",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 1E",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": null,
+        "gauge": null,
+        "spacing": null,
+        "height_limit": null
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Moisture-resistant barrier at all wet locations is called out on the sheet."
+      ],
+      "confidence_note": "The tag and board callout are visible; exact stud size/gauge association is not confidently recoverable from the text extract
+    },
+    {
+      "tag": "2B",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 2B",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 17 feet; over 17 feet to 22 feet use 20 GA studs; over 22 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side.",
+        "Secure channel runners to structure above and below."
+      ],
+      "confidence_note": "Sound-blanket and acoustic-sealant notes are present in the partition detail group; verify precise type association on the or
+    },
+    {
+      "tag": "2C",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 2C",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "Two layers of 5/8 inch gypsum wallboard on each side of metal stud",
+        "Stagger all vertical joints"
+      ],
+      "metal_stud": {
+
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 16 feet; heights 16 to 23 feet use 20 GA studs; over 23 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 2,
+        "faces": "Each side of metal stud",
+        "joint_layout": "Stagger all vertical joints"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side.",
+        "Moisture-resistant barrier at all wet locations where noted."
+      ],
+      "confidence_note": "The two-layer board and staggered-joint callout is legible in the A-900 partition detail group."
+    },
+    {
+      "tag": "3A",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 3A",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 17 feet; over 17 feet to 22 feet use 20 GA studs; over 22 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Secure metal channel runner to structure above and below."
+      ],
+      "confidence_note": "The callouts are visible in the A-900 detail group; verify exact association with 3A in the original sheet."
+    },
+    {
+      "tag": "3D",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 3D",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "Two layers of 5/8 inch gypsum wallboard on each side of metal stud",
+        "Stagger all vertical joints"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 16 feet; 16 to 23 feet use 20 GA studs; over 23 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 2,
+        "faces": "Each side of metal stud",
+        "joint_layout": "Stagger all vertical joints"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side.",
+        "Moisture-resistant barrier at all wet locations where noted."
+      ],
+      "confidence_note": "The A-900 detail shows two layers and staggered joints; verify exact association with tag 3D from the original panel."
+    },
+    {
+      "tag": "5B",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 5B - 1 HR RATED",
+      "fire_rating": "1 hour",
+      "assembly": [
+        "Metal-stud partition",
+        "Gypsum wallboard assembly; exact layer arrangement to be checked on drawing"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Height-dependent stud gauge is specified in the detail group"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": null,
+
+        "faces": null
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness where shown"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side."
+      ],
+      "confidence_note": "Fire rating is explicit in the drawing title. Layer arrangement is not safely assigned from the extracted text alone."
+    },
+    {
+      "tag": "5D",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 5D",
+      "fire_rating": null,
+      "assembly": [
+        "Metal-stud partition",
+        "Gypsum wallboard assembly; see original drawing for layer arrangement"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Height-dependent stud gauge is specified in the detail group"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": null,
+        "faces": null
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness where shown"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side."
+      ],
+      "confidence_note": "The exact layer arrangement is not safely assigned from the extracted text alone."
+    },
+    {
+      "tag": "5E",
+      "drawing": "A-900",
+      "pdf_page": 63,
+      "drawing_label": "PARTITION TYPE DETAIL 5E - 2 HR RATED",
+      "fire_rating": "2 hours",
+      "assembly": [
+        "Metal-stud partition",
+        "Two layers of 5/8 inch gypsum wallboard on each side of metal stud",
+        "Stagger all vertical joints"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 16 feet; 16 to 23 feet use 20 GA studs; over 23 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 2,
+        "faces": "Each side of metal stud",
+        "joint_layout": "Stagger all vertical joints"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness where shown"
+      },
+      "other_requirements": [
+        "For sound partition use continuous acoustic sealant top and bottom, each side."
+      ],
+      "confidence_note": "The 2-hour rating is explicit in the drawing title; verify all assembly layers against the original detail before constructio
+    },
+    {
+      "tag": "7A",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "PERIMETER FURRING PARTITION 7A",
+      "fire_rating": null,
+      "assembly": [
+        "One layer of 5/8 inch gypsum wallboard laminated to existing wall",
+        "1 1/2 inch rigid insulation"
+      ],
+      "metal_stud": null,
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Laminated to existing wall"
+      },
+      "insulation": {
+        "type": "Rigid insulation",
+        "thickness": "1 1/2 inch",
+        "stated_R_value": "7.5"
+      },
+      "other_requirements": [
+        "Drawing notes 5/8 inch GYP = R-0.5 and total R-value = 8.",
+        "Wall base shown."
+      ],
+      "confidence_note": "Values are transcribed from the 7A detail."
+    },
+
+    {
+      "tag": "7B",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "FURRING PARTITION 7B",
+      "fire_rating": null,
+      "assembly": [
+        "One layer of 5/8 inch gypsum wallboard on room side",
+        "Sound attenuation blanket full height and thickness"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "25 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Up to 16 feet; 16 to 23 feet use 20 GA; over 23 feet use 18 GA"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Room side"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness"
+      },
+      "other_requirements": [
+        "Continuous acoustical sealant at top and bottom, both sides."
+      ],
+      "confidence_note": "Transcribed from the 7B detail area."
+    },
+    {
+      "tag": "7C",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "PARTITION TYPE DETAIL 7C",
+      "fire_rating": null,
+      "assembly": [
+        "One layer of 5/8 inch gypsum wallboard on each side of metal stud",
+        "Sound attenuation blanket full height and thickness"
+      ],
+      "metal_stud": {
+        "size": "3 5/8 inch",
+        "gauge": "20 GA",
+        "spacing": "16 inch O.C.",
+        "height_limit": "Over 14 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": {
+        "type": "Sound attenuation blanket",
+        "extent": "Full height and thickness"
+      },
+      "other_requirements": [
+        "Continuous acoustical sealant both sides.",
+        "Secure two metal channel runners to structure below with fasteners as required.",
+        "Moisture-resistant barrier at all wet locations where noted."
+      ],
+      "confidence_note": "Transcribed from the 7C detail area."
+    },
+    {
+      "tag": "7E",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "PARTITION TYPE DETAIL 7E",
+      "fire_rating": null,
+      "assembly": [
+        "Two layers of 1/2 inch Type-C gypsum wallboard; stagger all vertical joints"
+      ],
+      "metal_stud": {
+        "size": "2 1/2 inch C-H metal stud",
+        "gauge": "25 GA",
+        "spacing": "24 inch O.C.",
+        "height_limit": "Up to 16 feet; 16 to 23 feet use 20 GA; over 23 feet use 18 GA"
+      },
+      "gypsum_board": {
+        "thickness": "1/2 inch",
+        "type": "Type-C",
+        "layers": 2,
+        "faces": null,
+        "joint_layout": "Stagger all vertical joints"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Moisture-resistant barrier at all wet locations where noted."
+      ],
+      "confidence_note": "The OCR panel shows these callouts in the 7E detail area; verify exact board face arrangement on the drawing."
+    },
+    {
+      "tag": "7F",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "SHAFT WALL PARTITION 7F - 2 HR RATED",
+      "fire_rating": "2 hours",
+      "assembly": [
+        "One layer of 1 inch Type-SCX gypsum wallboard",
+        "Two layers of 1/2 inch Type-C gypsum wallboard; stagger all vertical joints"
+      ],
+
+      "metal_stud": {
+        "size": "2 1/2 inch C-H metal stud",
+        "gauge": "25 GA",
+        "spacing": "24 inch O.C.",
+        "height_limit": "Up to 16 feet; 16 to 23 feet use 20 GA; over 23 feet use 18 GA"
+      },
+      "gypsum_board": {
+        "thicknesses": [
+          "1 inch",
+          "1/2 inch"
+        ],
+        "types": [
+          "Type-SCX",
+          "Type-C"
+        ],
+        "layers": "One 1 inch Type-SCX layer and two 1/2 inch Type-C layers as shown",
+        "joint_layout": "Stagger all vertical joints"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Secure 4 inch metal J runner to structure below with fasteners as required."
+      ],
+      "confidence_note": "The 2-hour rating and board types are explicitly visible in the shaft-wall detail."
+    },
+    {
+      "tag": "7G",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "PARTITION TYPE DETAIL 7G",
+      "fire_rating": null,
+      "assembly": [
+        "One layer of gypsum wallboard on each side of metal stud"
+      ],
+      "metal_stud": {
+        "size": "2 1/2 inch",
+        "gauge": "20 GA",
+        "spacing": "16 inch O.C. maximum",
+        "height_limit": "Over 14 feet use 18 GA studs"
+      },
+      "gypsum_board": {
+        "thickness": null,
+        "layers": 1,
+        "faces": "Each side of metal stud"
+      },
+      "insulation": {
+        "type": "R-19 insulation",
+        "extent": "Continue all the way to structure above"
+      },
+      "other_requirements": [
+        "Stud bracing at 48 inch O.C. maximum; additional bracing at each door header.",
+        "Align header to ACT ceiling; refer to RCP for ceiling type and heights."
+      ],
+      "confidence_note": "Transcribed from the 7G detail area."
+    },
+    {
+      "tag": "8A",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "FURRING PARTITION 8A",
+      "fire_rating": null,
+      "assembly": [
+        "One layer of 5/8 inch gypsum wallboard laminated to existing wall"
+      ],
+      "metal_stud": null,
+      "gypsum_board": {
+        "thickness": "5/8 inch",
+        "layers": 1,
+        "faces": "Laminated to existing wall"
+      },
+      "insulation": null,
+      "other_requirements": [
+        "Wall base shown."
+      ],
+      "confidence_note": "Transcribed from the 8A detail area."
+    }
+  ],
+  "related_details_not_classified_as_standard_drywall_partition_types": [
+    {
+      "tag": "09",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "SECTION @ TV SCREEN",
+      "description": "TV-screen wall section; drawing calls out electrical backboard/panel and refers to AV drawings for additional information. It als
+    },
+    {
+      "tag": "GL1",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "GLASS OFFICEFRONT SYSTEM",
+      "description": "Glass officefront system; not a standard drywall partition."
+    },
+    {
+      "tag": "GL2",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "GLASS WALL AT ENTRANCE",
+      "description": "Glass wall at entrance; not a standard drywall partition."
+    },
+    {
+      "tag": "10",
+
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "TYP. STEEL COLUMN ENCLOSURE",
+      "description": "Typical steel column enclosure; drawing shows two layers of Type X gypsum board."
+    },
+    {
+      "tag": "11",
+      "drawing": "A-901",
+      "pdf_page": 64,
+      "drawing_label": "TYP. CONCRETE ENCASED STEEL COLUMN",
+      "description": "Typical concrete-encased steel column detail; not a standard drywall partition."
+    }
+  ],
+  "general_notes_visible_on_sheets": [
+    "Moisture-resistant barrier on all wet locations where noted.",
+    "For sound partitions, use continuous acoustic/acoustical sealant at top and bottom, each side, where noted.",
+    "Secure metal channel runners to structure above and below with fasteners as required.",
+    "Metal stud bracing at 48 inch O.C. maximum and additional bracing at door headers where noted.",
+    "Refer to reflected ceiling plan (RCP) for scheduled ceiling specifications, types, and heights where noted."
+  ],
+  "limitations": [
+    "These are partition-type details, not a complete schedule of every wall location in the building.",
+    "No wall lengths, heights by room, quantities, or total drywall areas are calculated in this file.",
+    "Some dense drawing callouts are difficult to associate unambiguously with individual tags from extracted text; check the original A-900/A-901 shee
+    "Glass systems, column enclosures, and the TV-screen section are listed separately from standard drywall partition types."
+}  ]
+

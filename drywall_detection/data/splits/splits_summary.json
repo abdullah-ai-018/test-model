@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "seed": 42,
+  "group_key": "site_id",
+  "split_ratios": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "verification_hash": "66864c18bf7d5010ae4fc85e6a4729c5ca4f1214adeff5c88da9a412a978affe",
+  "isolation_status": "VERIFIED_ZERO_LEAKAGE",
+  "total_samples": 6,
+  "stats": {
+    "train": {
+      "split_name": "train",
+      "total_projects": 1,
+      "total_drawings": 2,
+      "total_samples": 2,
+      "wall_samples_count": 2,
+      "empty_samples_count": 0,
+      "wall_pixel_percentage": 65.269,
+      "projects_list": [
+        "site_02"
+      ]
+    },
+    "val": {
+      "split_name": "val",
+      "total_projects": 1,
+      "total_drawings": 2,
+      "total_samples": 2,
+      "wall_samples_count": 2,
+      "empty_samples_count": 0,
+      "wall_pixel_percentage": 65.269,
+      "projects_list": [
+        "site_01"
+      ]
+    },
+    "test": {
+      "split_name": "test",
+      "total_projects": 1,
+      "total_drawings": 2,
+      "total_samples": 2,
+      "wall_samples_count": 2,
+      "empty_samples_count": 0,
+      "wall_pixel_percentage": 65.269,
+      "projects_list": [
+        "site_00"
+      ]
+    }
+  }
+}

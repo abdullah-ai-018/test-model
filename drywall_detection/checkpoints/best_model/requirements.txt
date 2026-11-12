@@ -1,0 +1,15 @@
+# Required dependencies for Drywall Detection & Wall Classification Model
+# Python >= 3.10
+
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+PyMuPDF>=1.23.0
+Pillow>=9.0.0
+numpy>=1.23.0
+shapely>=2.0.0
+opencv-python-headless>=4.7.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+streamlit>=1.25.0
+pytest>=7.0.0

@@ -1,0 +1,6033 @@
+{
+  "Bid Set.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\Bid Set.pdf",
+    "size_mb": 75.77,
+    "total_pages": 71,
+    "target_sheet_matches": {
+      "G-": [
+        2,
+        15,
+        28
+      ]
+    },
+    "first_page_dimensions": [
+      3024.0,
+      2160.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.0",
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "VENDORS, RESPONSIBILITY & MATERIAL SCHEDULES",
+          "DEMOLITION  FLOOR PLAN",
+          "CONSTRUCTION FLOOR PLAN"
+        ],
+        "text_length": 18944
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS5",
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "RESPONSIBILITY SCHEDULE",
+          "SCHEDULED BY GC DURING APPLICABLE",
+          "NOTES:"
+        ],
+        "text_length": 22092
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "WALL TYPES LEGEND",
+          "5/8\" TILE BACKER BD (WHERE TILE IS SCHEDULED) OR TYPE 'X' MOISTURE",
+          "ATTACH WALL MOUNTED PARTITIONS)"
+        ],
+        "text_length": 10954
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "WALL TYPES LEGEND",
+          "5/8\" TILE BACKER BD (WHERE TILE IS SCHEDULED) OR TYPE 'X' MOISTURE",
+          "ATTACH WALL MOUNTED PARTITIONS)"
+        ],
+        "text_length": 6802
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FINISH FLOOR PLAN",
+          "FINISH GENERAL NOTES",
+          "TO BE IN ACCORDANCE WITH CONCRETE FINISH NOTES IN THIS SECTION."
+        ],
+        "text_length": 12625
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FINISH FLOOR PLAN - CONNECTRAC",
+          "GENERAL NOTES"
+        ],
+        "text_length": 2000
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FINISH GENERAL NOTES",
+          "UNDERLAYMENT GENERAL NOTES @ LVT ONLY (WHEN APPLICABLE)",
+          "DOOR AS PER ROOM SCHEDULE."
+        ],
+        "text_length": 6843
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES",
+          "LIGHTING LEGEND"
+        ],
+        "text_length": 6316
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ROOF GENERAL NOTES (NEW CONSTRUCTION)",
+          "KICK OFF CALL TO BE SCHEDULED WITH BBY REPRESENTATIVE, STORE"
+        ],
+        "text_length": 3032
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS5"
+        ],
+        "title_candidates": [],
+        "text_length": 8936
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "FINISH SCHEDULE ON",
+          "WALL HATCH / PAINT LEGEND"
+        ],
+        "text_length": 3030
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "AUTO-CLOSE PARTITION",
+          "RESTROOM ACCESSORY SCHEDULE",
+          "PARTITIONS"
+        ],
+        "text_length": 4964
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 3905
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "ACCESSORY SCHEDULE",
+          "GENERAL NOTES",
+          "HUB ACCESSORY SCHEDULE"
+        ],
+        "text_length": 3608
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.1",
+          "CS5"
+        ],
+        "title_candidates": [
+          "DOOR HARDWARE SCHEDULE",
+          "HARDWARE NOTES",
+          "DOOR SCHEDULE"
+        ],
+        "text_length": 14824
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 3625
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "WALL PARTITIONS UON.",
+          "FINISH SCHEDULE ON A3.0)",
+          "02-001 DUST PARTITION DETAIL"
+        ],
+        "text_length": 6650
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "EDGE OF PARTITION",
+          "REFER TO ROOM FINISH LEGEND FOR",
+          "REFER TO FINISH SCHEDULE FOR"
+        ],
+        "text_length": 5309
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [
+          "CS1.1"
+        ],
+        "title_candidates": [
+          "REFER TO MATERIAL SCHEDULE ON CS1.1 FOR GROUT COLORS.",
+          "SCHEDULE 40"
+        ],
+        "text_length": 6468
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES"
+        ],
+        "text_length": 2493
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "PARTITIONS, TYP",
+          "AND DEVELOPMENT MANAGER SO AS NOT TO INTERFERE WITH EXISTING TENANTS SCHEDULES.",
+          "DEMOLITION.  IF SERVICE NEEDS TO BE INTERRUPTED, SCHEDULE OF WORK MUST BE REVIEWED"
+        ],
+        "text_length": 9153
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "NOTES:",
+          "ACCESSIBLE REACH & CLEARANCE NOTES",
+          "DOOR ACCESSIBILITY NOTES"
+        ],
+        "text_length": 17584
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 5927
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FIXTURE LEGEND",
+          "HATCH LEGEND",
+          "GENERAL NOTES"
+        ],
+        "text_length": 11795
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GEEK TV SCHEDULER",
+          "GENERAL NOTES",
+          "FIXTURE LEGEND"
+        ],
+        "text_length": 4306
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES"
+        ],
+        "text_length": 3405
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 3440
+      },
+      {
+        "page": 28,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "STRUCTURAL GENERAL NOTES",
+          "joist and joist girder notes for further information.",
+          "for shop drawings will not be permitted or accepted.  See specifications and general notes for additional requirements."
+        ],
+        "text_length": 39408
+      },
+      {
+        "page": 29,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FOOTING SCHEDULE",
+          "COLUMN / BASE PLATE / ANCHOR ROD SCHEDULE",
+          "FOUNDATION NOTES:"
+        ],
+        "text_length": 2076
+      },
+      {
+        "page": 30,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "1. REFER TO DRAWING S0.0 FOR GENERAL NOTES.",
+          "FRAMING NOTES:"
+        ],
+        "text_length": 1912
+      },
+      {
+        "page": 31,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "(SEE SCHEDULE ON S1.0)"
+        ],
+        "text_length": 2553
+      },
+      {
+        "page": 32,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2980
+      },
+      {
+        "page": 33,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1326
+      },
+      {
+        "page": 34,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 35,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 36,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 37,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 38,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 39,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 40,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SYMBOLS LEGEND"
+        ],
+        "text_length": 10986
+      },
+      {
+        "page": 41,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1403
+      },
+      {
+        "page": 42,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1537
+      },
+      {
+        "page": 43,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2239
+      },
+      {
+        "page": 44,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 45,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 46,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 47,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 48,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 49,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 50,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 51,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 52,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 53,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 54,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 55,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 56,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 57,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 58,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 59,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 60,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SYMBOLS LEGEND"
+        ],
+        "text_length": 10986
+      },
+      {
+        "page": 61,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1403
+      },
+      {
+        "page": 62,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1537
+      },
+      {
+        "page": 63,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2239
+      },
+      {
+        "page": 64,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Symbol Legend"
+        ],
+        "text_length": 1115
+      },
+      {
+        "page": 65,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Pipe Schedule",
+          "Schedule/Type",
+          "Schedule 40"
+        ],
+        "text_length": 10114
+      },
+      {
+        "page": 66,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Automatic Sprinkler Legend",
+          "Scope of Work Summary Notes",
+          "Symbol Legend"
+        ],
+        "text_length": 2661
+      },
+      {
+        "page": 67,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Automatic Sprinkler Legend",
+          "Scope of Work Summary Notes",
+          "Symbol Legend"
+        ],
+        "text_length": 4852
+      },
+      {
+        "page": 68,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Scope of Work Summary Notes"
+        ],
+        "text_length": 3879
+      },
+      {
+        "page": 69,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Hanger Spacing Legend",
+          "Schedule 40",
+          "Schedule 10"
+        ],
+        "text_length": 4942
+      },
+      {
+        "page": 70,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Stockroom Notes",
+          "Racking Notes",
+          "Sales Floor Notes"
+        ],
+        "text_length": 3517
+      },
+      {
+        "page": 71,
+        "dimensions": [
+          3024.0,
+          2160.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "this plan by hatch patterns as indicated in the legend on HPSP",
+          "Low and High-Piled Storage Notes"
+        ],
+        "text_length": 11001
+      }
+    ]
+  },
+  "file-1793194362940-560626729.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\file-1793194362940-560626729.pdf",
+    "size_mb": 27.76,
+    "total_pages": 71,
+    "target_sheet_matches": {
+      "G-": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        31,
+        38,
+        41,
+        42,
+        43
+      ],
+      "A-101": [
+        3,
+        15
+      ],
+      "A-102": [
+        3,
+        16
+      ],
+      "A-103": [
+        3,
+        17
+      ],
+      "A-104": [
+        3,
+        18
+      ],
+      "A-900": [
+        3,
+        63
+      ],
+      "A-901": [
+        3,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        52,
+        53,
+        64
+      ],
+      "A-902": [
+        3,
+        18,
+        24,
+        65
+      ],
+      "A-910": [
+        3,
+        71
+      ]
+    },
+    "first_page_dimensions": [
+      2592.0,
+      1728.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 269
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-000",
+          "G-001"
+        ],
+        "title_candidates": [
+          "BUILDING DEPARTMENT NOTES",
+          "INDICATES 1 HOUR FIRE RATED PARTITION",
+          "INDICATES 4 HOUR FIRE RATED PARTITION"
+        ],
+        "text_length": 17058
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "G-002",
+          "G-001",
+          "G-003",
+          "G-004",
+          "G-005",
+          "G-006",
+          "A-100",
+          "A-101",
+          "A-102",
+          "A-103",
+          "A-104",
+          "A-105",
+          "A-200",
+          "A-201",
+          "A-202",
+          "A-203",
+          "A-204",
+          "A-300",
+          "A-301",
+          "A-302",
+          "A-303",
+          "A-304",
+          "A-305",
+          "A-306",
+          "A-401",
+          "A-402",
+          "A-403",
+          "A-404",
+          "A-405",
+          "A-406",
+          "A-407",
+          "A-501",
+          "A-502",
+          "A-503",
+          "A-504",
+          "A-601",
+          "A-602",
+          "A-701",
+          "A-702",
+          "A-703",
+          "A-704",
+          "A-705",
+          "A-706",
+          "A-707",
+          "A-708",
+          "A-709",
+          "A-710",
+          "A-800",
+          "A-801",
+          "A-802",
+          "A-803",
+          "A-804",
+          "A-805",
+          "A-900",
+          "A-901",
+          "A-902",
+          "A-903",
+          "A-905",
+          "A-906",
+          "A-907",
+          "A-908",
+          "A-910"
+        ],
+        "title_candidates": [
+          "MASTER LEGENDS",
+          "NOTES & SPECIFICATIONS",
+          "SCHEDULE"
+        ],
+        "text_length": 11322
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "G-704",
+          "G-003"
+        ],
+        "title_candidates": [
+          "1. THE CONTRACTOR SHALL SUBMIT A SUBMITTAL SCHEDULE FOR REVIEW",
+          "SCHEDULE OR, IN THE ABSENCE OF AN APPROVED SUBMITTAL",
+          "SCHEDULE, WITH REASONABLE PROMPTNESS, AND IN SUCH SEQUENCE"
+        ],
+        "text_length": 30031
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "G-004"
+        ],
+        "title_candidates": [],
+        "text_length": 1332
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "G-005"
+        ],
+        "title_candidates": [],
+        "text_length": 1250
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "G-006"
+        ],
+        "title_candidates": [],
+        "text_length": 1214
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LIFESAFETY LEGEND"
+        ],
+        "text_length": 8962
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LIFESAVER LEGEND"
+        ],
+        "text_length": 11301
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LIFESAVER LEGEND"
+        ],
+        "text_length": 10000
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LIFESAVER LEGEND"
+        ],
+        "text_length": 10205
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LIFESAVER LEGEND"
+        ],
+        "text_length": 10048
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-801"
+        ],
+        "title_candidates": [
+          "LIFESAFETY LEGEND"
+        ],
+        "text_length": 8471
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-802",
+          "A-801",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-100"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12217
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-706",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-800",
+          "A-907",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-101"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12523
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-703",
+          "A-802",
+          "A-801",
+          "A-707",
+          "A-708",
+          "A-709",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-102"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 13006
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-704",
+          "A-802",
+          "A-708",
+          "A-801",
+          "A-706",
+          "A-709",
+          "A-702",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-103"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12672
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-705",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-706",
+          "A-707",
+          "A-902",
+          "A-709",
+          "A-710",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-104"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12903
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-801",
+          "A-710",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-105"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12010
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-200",
+          "A-906"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 9520
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-201"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10179
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-905",
+          "A-202"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10546
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-203"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10498
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-902",
+          "A-801",
+          "A-204"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10665
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-300"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 10920
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-301"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 11264
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-302"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 12775
+      },
+      {
+        "page": 28,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-303"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 13134
+      },
+      {
+        "page": 29,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-304"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 13460
+      },
+      {
+        "page": 30,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-305"
+        ],
+        "title_candidates": [
+          "POWER & COMMUNICATIONS LEGEND",
+          "PARTITION TO 6\" ABOVE FINISHED CEILING WITH DRAG LINE, CABLING BY OTHERS.",
+          "MOUNTED AT 15\" A.F.F., U.O.N. WITH 3/4\" CONDUIT WITHIN PARTITION TO 6\" TO"
+        ],
+        "text_length": 10707
+      },
+      {
+        "page": 31,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-306"
+        ],
+        "title_candidates": [
+          "FIXTURE SCHEDULE",
+          "APPLIANCE SCHEDULE",
+          "ACCESSORIES SCHEDULE"
+        ],
+        "text_length": 12013
+      },
+      {
+        "page": 32,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-401"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 6936
+      },
+      {
+        "page": 33,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-402"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7025
+      },
+      {
+        "page": 34,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-403"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7294
+      },
+      {
+        "page": 35,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-404"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7363
+      },
+      {
+        "page": 36,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-405"
+        ],
+        "title_candidates": [
+          "DOOR (SEE DOOR SCHEDULE)",
+          "DOOR (SEE DOOR SCHEDULE)",
+          "DOOR (SEE DOOR SCHEDULE)"
+        ],
+        "text_length": 4158
+      },
+      {
+        "page": 37,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-406",
+          "A-400"
+        ],
+        "title_candidates": [
+          "FINISH LEGEND SHEET I",
+          "NOTES: REFER TO GENERAL FINISH NOTES AND FINISH PLAN",
+          "NOTE: SEE GENERAL FINISH NOTES FOR ADDITIONAL"
+        ],
+        "text_length": 18931
+      },
+      {
+        "page": 38,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-407"
+        ],
+        "title_candidates": [
+          "FINISH LEGEND SHEET II",
+          "REFER TO GENERAL FINISH NOTES, FINISH PLAN AND",
+          "REFER TO GENERAL FINISH NOTES, FINISH PLAN AND"
+        ],
+        "text_length": 8804
+      },
+      {
+        "page": 39,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-500"
+        ],
+        "title_candidates": [],
+        "text_length": 1722
+      },
+      {
+        "page": 40,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-501"
+        ],
+        "title_candidates": [],
+        "text_length": 2287
+      },
+      {
+        "page": 41,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-502"
+        ],
+        "title_candidates": [],
+        "text_length": 2215
+      },
+      {
+        "page": 42,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-503"
+        ],
+        "title_candidates": [],
+        "text_length": 2492
+      },
+      {
+        "page": 43,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-504"
+        ],
+        "title_candidates": [],
+        "text_length": 2481
+      },
+      {
+        "page": 44,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-505"
+        ],
+        "title_candidates": [],
+        "text_length": 1555
+      },
+      {
+        "page": 45,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-601"
+        ],
+        "title_candidates": [
+          "SEE DOOR SCHEDULE",
+          "SEE DOOR SCHEDULE",
+          "DOOR SCHEDULE"
+        ],
+        "text_length": 12448
+      },
+      {
+        "page": 46,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-602"
+        ],
+        "title_candidates": [
+          "SCHEDULED PARTITION",
+          "SCHEDULED",
+          "SEE SCHEDULED PARTITION TYPE"
+        ],
+        "text_length": 2798
+      },
+      {
+        "page": 47,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-805",
+          "A-906"
+        ],
+        "title_candidates": [
+          "SCHEDULED",
+          "SCHEDULED",
+          "SCHEDULED"
+        ],
+        "text_length": 5014
+      },
+      {
+        "page": 48,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-702",
+          "A-805"
+        ],
+        "title_candidates": [
+          "SCHEDULED",
+          "FINISH SCHEDULE",
+          "SCHEDULE"
+        ],
+        "text_length": 4509
+      },
+      {
+        "page": 49,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-702",
+          "A-703"
+        ],
+        "title_candidates": [
+          "SCHEDULED COVE"
+        ],
+        "text_length": 4559
+      },
+      {
+        "page": 50,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-805",
+          "A-702",
+          "A-704"
+        ],
+        "title_candidates": [],
+        "text_length": 3857
+      },
+      {
+        "page": 51,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-805",
+          "A-705",
+          "A-702"
+        ],
+        "title_candidates": [],
+        "text_length": 3771
+      },
+      {
+        "page": 52,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-805",
+          "A-706",
+          "A-901"
+        ],
+        "title_candidates": [
+          "SCHEDULED",
+          "SCHEDULED METAL",
+          "SCHEDULED"
+        ],
+        "text_length": 4204
+      },
+      {
+        "page": 53,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-901",
+          "A-707"
+        ],
+        "title_candidates": [
+          "SCHEDULED BASE",
+          "PARTITION",
+          "SCHEDULED"
+        ],
+        "text_length": 2719
+      },
+      {
+        "page": 54,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-708"
+        ],
+        "title_candidates": [
+          "SCHEDULED BASE",
+          "SCHEDULED ACOUSTIC",
+          "SCHEDULED BASE"
+        ],
+        "text_length": 2888
+      },
+      {
+        "page": 55,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-709"
+        ],
+        "title_candidates": [
+          "SCHEDULED TRIM",
+          "SCHEDULED BASE",
+          "SCHEDULED TRIM"
+        ],
+        "text_length": 2290
+      },
+      {
+        "page": 56,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-710"
+        ],
+        "title_candidates": [
+          "SCHEDULED BASE",
+          "SCHEDULED BASE",
+          "SCHEDULED BASE"
+        ],
+        "text_length": 1954
+      },
+      {
+        "page": 57,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800"
+        ],
+        "title_candidates": [
+          "PARTITION"
+        ],
+        "text_length": 3683
+      },
+      {
+        "page": 58,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-804",
+          "A-801"
+        ],
+        "title_candidates": [],
+        "text_length": 7153
+      },
+      {
+        "page": 59,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-701",
+          "A-802"
+        ],
+        "title_candidates": [],
+        "text_length": 5424
+      },
+      {
+        "page": 60,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803"
+        ],
+        "title_candidates": [],
+        "text_length": 5327
+      },
+      {
+        "page": 61,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-804"
+        ],
+        "title_candidates": [
+          "REFER TO PARTITION TYPE"
+        ],
+        "text_length": 3051
+      },
+      {
+        "page": 62,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-805"
+        ],
+        "title_candidates": [
+          "SCHEDULED FINISH. REFER TO",
+          "FINISH PLAN, FINISH SCHEDULE, AND",
+          "SCHEDULE"
+        ],
+        "text_length": 9294
+      },
+      {
+        "page": 63,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 13'-17' USE",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 8540
+      },
+      {
+        "page": 64,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "LINE OF SCHEDULED CEILING.",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT BETWEEN"
+        ],
+        "text_length": 7508
+      },
+      {
+        "page": 65,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-902"
+        ],
+        "title_candidates": [
+          "OPERABLE PARTITION.",
+          "COORDINATE WITH PARTITION VENDOR.",
+          "COORDINATE WITH PARTITION VENDOR"
+        ],
+        "text_length": 2054
+      },
+      {
+        "page": 66,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-903"
+        ],
+        "title_candidates": [],
+        "text_length": 1671
+      },
+      {
+        "page": 67,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-905"
+        ],
+        "title_candidates": [
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE"
+        ],
+        "text_length": 8198
+      },
+      {
+        "page": 68,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906"
+        ],
+        "title_candidates": [
+          "PARTITION AS\\X",
+          "SCHEDULED",
+          "SECURED TO PARTITION"
+        ],
+        "text_length": 5684
+      },
+      {
+        "page": 69,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-907"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 2306
+      },
+      {
+        "page": 70,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-908"
+        ],
+        "title_candidates": [],
+        "text_length": 1339
+      },
+      {
+        "page": 71,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-910"
+        ],
+        "title_candidates": [
+          "STUD PARTITION (REFER TO",
+          "SCHEDULED RATED PARTITION",
+          "SINGLE CABLE THROUGH GYPSUM BOARD PARTITION"
+        ],
+        "text_length": 6174
+      }
+    ]
+  },
+  "3.1-all-architectural-darwings.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\3.1-all-architectural-darwings.pdf",
+    "size_mb": 24.69,
+    "total_pages": 107,
+    "target_sheet_matches": {
+      "G-": [
+        75,
+        76
+      ]
+    },
+    "first_page_dimensions": [
+      1190.550048828125,
+      841.8900146484375
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 54
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 0
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 2028
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LEGEND",
+          "General Notes"
+        ],
+        "text_length": 1107
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LEGEND",
+          "General Notes"
+        ],
+        "text_length": 1791
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          1191.0,
+          842.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "LEGEND",
+          "General Notes"
+        ],
+        "text_length": 1533
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          1190.52001953125,
+          841.9199829101562
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1288
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          1190.52001953125,
+          841.9199829101562
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "partition"
+        ],
+        "text_length": 4587
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1506
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1010
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "GROUND FLOOR PLAN",
+          "GROUND FLOOR PLAN"
+        ],
+        "text_length": 2738
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "GROUND FLOOR PLAN WITH"
+        ],
+        "text_length": 583
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FIRST FLOOR PLAN",
+          "FIRST FLOOR PLAN"
+        ],
+        "text_length": 2324
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FIRST FLOOR PLAN WITH"
+        ],
+        "text_length": 564
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1082
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1574
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 615
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "( FLOOR PLAN WITH FURNITURE)",
+          "(FLOOR PLAN WITH  INTERNAL DIMENSIONS)"
+        ],
+        "text_length": 2394
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1158
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN WITH FURNITURE)",
+          "(GROUND FLOOR PLAN)"
+        ],
+        "text_length": 1303
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN WITH FURNITURE)",
+          "(FIRST FLOOR PLAN)"
+        ],
+        "text_length": 1326
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1149
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "(1st FLOOR PLAN)",
+          "(GROUND FLOOR PLAN)"
+        ],
+        "text_length": 1162
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 982
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "DOORS SCHEDULE"
+        ],
+        "text_length": 541
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "WINDOWS SCHEDULE"
+        ],
+        "text_length": 543
+      },
+      {
+        "page": 28,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2
+      },
+      {
+        "page": 29,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2
+      },
+      {
+        "page": 30,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2
+      },
+      {
+        "page": 31,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2
+      },
+      {
+        "page": 32,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2
+      },
+      {
+        "page": 33,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FLOOR PLAN",
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1668
+      },
+      {
+        "page": 34,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FLOOR PLAN",
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1653
+      },
+      {
+        "page": 35,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 615
+      },
+      {
+        "page": 36,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 615
+      },
+      {
+        "page": 37,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 815
+      },
+      {
+        "page": 38,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 909
+      },
+      {
+        "page": 39,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 932
+      },
+      {
+        "page": 40,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "SCHEDULE(Doors &windows)"
+        ],
+        "text_length": 1258
+      },
+      {
+        "page": 41,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FLOOR PLAN",
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 905
+      },
+      {
+        "page": 42,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FLOOR PLAN",
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 905
+      },
+      {
+        "page": 43,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 645
+      },
+      {
+        "page": 44,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 689
+      },
+      {
+        "page": 45,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1125
+      },
+      {
+        "page": 46,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 736
+      },
+      {
+        "page": 47,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 641
+      },
+      {
+        "page": 48,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 587
+      },
+      {
+        "page": 49,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 586
+      },
+      {
+        "page": 50,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 570
+      },
+      {
+        "page": 51,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 854
+      },
+      {
+        "page": 52,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 682
+      },
+      {
+        "page": 53,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 668
+      },
+      {
+        "page": 54,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 576
+      },
+      {
+        "page": 55,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 576
+      },
+      {
+        "page": 56,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 803
+      },
+      {
+        "page": 57,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "WINDOW AND  DOOR SCHEDULE",
+          "Door Schedule"
+        ],
+        "text_length": 736
+      },
+      {
+        "page": 58,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 856
+      },
+      {
+        "page": 59,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 587
+      },
+      {
+        "page": 60,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 898
+      },
+      {
+        "page": 61,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 648
+      },
+      {
+        "page": 62,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "Window and door schedule"
+        ],
+        "text_length": 738
+      },
+      {
+        "page": 63,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN",
+          "FLOOR PLAN"
+        ],
+        "text_length": 855
+      },
+      {
+        "page": 64,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 603
+      },
+      {
+        "page": 65,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 604
+      },
+      {
+        "page": 66,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 590
+      },
+      {
+        "page": 67,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 875
+      },
+      {
+        "page": 68,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "WINDOW & DOOR SCHEDULE",
+          "Door Schedule"
+        ],
+        "text_length": 783
+      },
+      {
+        "page": 69,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 805
+      },
+      {
+        "page": 70,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 604
+      },
+      {
+        "page": 71,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 604
+      },
+      {
+        "page": 72,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 588
+      },
+      {
+        "page": 73,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 876
+      },
+      {
+        "page": 74,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "Door Schedule"
+        ],
+        "text_length": 769
+      },
+      {
+        "page": 75,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1151
+      },
+      {
+        "page": 76,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN (FURNITURE)"
+        ],
+        "text_length": 973
+      },
+      {
+        "page": 77,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 650
+      },
+      {
+        "page": 78,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 743
+      },
+      {
+        "page": 79,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 2851
+      },
+      {
+        "page": 80,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 2281
+      },
+      {
+        "page": 81,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "SCHEDULE"
+        ],
+        "text_length": 1290
+      },
+      {
+        "page": 82,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1181
+      },
+      {
+        "page": 83,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN (FURNITURE)"
+        ],
+        "text_length": 1019
+      },
+      {
+        "page": 84,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 658
+      },
+      {
+        "page": 85,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 743
+      },
+      {
+        "page": 86,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 2279
+      },
+      {
+        "page": 87,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 2814
+      },
+      {
+        "page": 88,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "SCHEDULE"
+        ],
+        "text_length": 1389
+      },
+      {
+        "page": 89,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1500
+      },
+      {
+        "page": 90,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN",
+          "FLOOR PLAN (FURNITURES ARRANGEMENT)"
+        ],
+        "text_length": 1324
+      },
+      {
+        "page": 91,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1039
+      },
+      {
+        "page": 92,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1051
+      },
+      {
+        "page": 93,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1503
+      },
+      {
+        "page": 94,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "FLOOR PLAN(VACCINATION FACILITY  SANITARY LAYOUT )",
+          "FLOOR PLAN(VACCINATION FACILITY TILES LAYOUT )",
+          "NOTATION LEGEND - Sanitary Fittings(Cotto,castleware,sanitana)"
+        ],
+        "text_length": 1521
+      },
+      {
+        "page": 95,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "DOORS SCHEDULE",
+          "DOORS SCHEDULE"
+        ],
+        "text_length": 1519
+      },
+      {
+        "page": 96,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "WINDOWS SCHEDULE",
+          "WINDOWS SCHEDULE"
+        ],
+        "text_length": 1156
+      },
+      {
+        "page": 97,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 1053
+      },
+      {
+        "page": 98,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 608
+      },
+      {
+        "page": 99,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 629
+      },
+      {
+        "page": 100,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 594
+      },
+      {
+        "page": 101,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 875
+      },
+      {
+        "page": 102,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "DOOR AND WINDOW SCHEDULE",
+          "General Notes",
+          "WINDOW & DOOR SCHEDULE"
+        ],
+        "text_length": 712
+      },
+      {
+        "page": 103,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN",
+          "FLOOR PLAN"
+        ],
+        "text_length": 801
+      },
+      {
+        "page": 104,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN"
+        ],
+        "text_length": 658
+      },
+      {
+        "page": 105,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "DOORS SCHEDULE",
+          "DOORS SCHEDULE"
+        ],
+        "text_length": 564
+      },
+      {
+        "page": 106,
+        "dimensions": [
+          1190.52001953125,
+          841.9200439453125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes"
+        ],
+        "text_length": 1816
+      },
+      {
+        "page": 107,
+        "dimensions": [
+          1190.550048828125,
+          841.8900146484375
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "General Notes",
+          "FLOOR PLAN (COVERED WALKWAYS)"
+        ],
+        "text_length": 1027
+      }
+    ]
+  },
+  "drywall_annotated_floor_plans.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\drywall_annotated_floor_plans.pdf",
+    "size_mb": 7.91,
+    "total_pages": 27,
+    "target_sheet_matches": {
+      "A-901": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        23
+      ],
+      "G-": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "A-101": [
+        2
+      ],
+      "A-102": [
+        3
+      ],
+      "A-103": [
+        4
+      ],
+      "A-104": [
+        5
+      ],
+      "A-902": [
+        5,
+        11
+      ],
+      "A-900": [
+        22
+      ],
+      "A-910": [
+        27
+      ]
+    },
+    "first_page_dimensions": [
+      2592.0,
+      1728.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-802",
+          "A-801",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-100"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12217
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-706",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-800",
+          "A-907",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-101"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12523
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-703",
+          "A-802",
+          "A-801",
+          "A-707",
+          "A-708",
+          "A-709",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-102"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 13006
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-704",
+          "A-802",
+          "A-708",
+          "A-801",
+          "A-706",
+          "A-709",
+          "A-702",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-103"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12672
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-705",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-706",
+          "A-707",
+          "A-902",
+          "A-709",
+          "A-710",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-104"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12903
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-801",
+          "A-710",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-105"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12010
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-200",
+          "A-906"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 9520
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-201"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10179
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-905",
+          "A-202"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10546
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-203"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10498
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-902",
+          "A-801",
+          "A-204"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10665
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-401"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 6936
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-402"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7025
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-403"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7294
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-404"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7363
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-406",
+          "A-400"
+        ],
+        "title_candidates": [
+          "FINISH LEGEND SHEET I",
+          "NOTES: REFER TO GENERAL FINISH NOTES AND FINISH PLAN",
+          "NOTE: SEE GENERAL FINISH NOTES FOR ADDITIONAL"
+        ],
+        "text_length": 18931
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-602"
+        ],
+        "title_candidates": [
+          "SCHEDULED PARTITION",
+          "SCHEDULED",
+          "SEE SCHEDULED PARTITION TYPE"
+        ],
+        "text_length": 2798
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-804",
+          "A-801"
+        ],
+        "title_candidates": [],
+        "text_length": 7153
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-701",
+          "A-802"
+        ],
+        "title_candidates": [],
+        "text_length": 5424
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-804"
+        ],
+        "title_candidates": [
+          "REFER TO PARTITION TYPE"
+        ],
+        "text_length": 3051
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-805"
+        ],
+        "title_candidates": [
+          "SCHEDULED FINISH. REFER TO",
+          "FINISH PLAN, FINISH SCHEDULE, AND",
+          "SCHEDULE"
+        ],
+        "text_length": 9294
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 13'-17' USE",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 8540
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "LINE OF SCHEDULED CEILING.",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT BETWEEN"
+        ],
+        "text_length": 7508
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-905"
+        ],
+        "title_candidates": [
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE"
+        ],
+        "text_length": 8198
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906"
+        ],
+        "title_candidates": [
+          "PARTITION AS\\X",
+          "SCHEDULED",
+          "SECURED TO PARTITION"
+        ],
+        "text_length": 5684
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-907"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 2306
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-910"
+        ],
+        "title_candidates": [
+          "STUD PARTITION (REFER TO",
+          "SCHEDULED RATED PARTITION",
+          "SINGLE CABLE THROUGH GYPSUM BOARD PARTITION"
+        ],
+        "text_length": 6174
+      }
+    ]
+  },
+  "drywall_walls_marked_red_by_Usman.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\drywall_walls_marked_red_by_Usman.pdf",
+    "size_mb": 8.05,
+    "total_pages": 27,
+    "target_sheet_matches": {
+      "A-901": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        23
+      ],
+      "G-": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "A-101": [
+        2
+      ],
+      "A-102": [
+        3
+      ],
+      "A-103": [
+        4
+      ],
+      "A-104": [
+        5
+      ],
+      "A-902": [
+        5,
+        11
+      ],
+      "A-900": [
+        22
+      ],
+      "A-910": [
+        27
+      ]
+    },
+    "first_page_dimensions": [
+      2592.0,
+      1728.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-802",
+          "A-801",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-100"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12217
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-706",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-800",
+          "A-907",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-101"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12523
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-703",
+          "A-802",
+          "A-801",
+          "A-707",
+          "A-708",
+          "A-709",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-102"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 13006
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-704",
+          "A-802",
+          "A-708",
+          "A-801",
+          "A-706",
+          "A-709",
+          "A-702",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-103"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12672
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-705",
+          "A-702",
+          "A-802",
+          "A-801",
+          "A-706",
+          "A-707",
+          "A-902",
+          "A-709",
+          "A-710",
+          "A-901",
+          "G-004",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-104"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12903
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-801",
+          "A-710",
+          "G-004",
+          "A-901",
+          "G-001",
+          "G-002",
+          "G-003",
+          "A-105"
+        ],
+        "title_candidates": [
+          "NOTE: REFER TO SHEET G-004 FOR FULL CONSTRUCTION LEGEND, SYMBOLS, & ABB.",
+          "INDICATES PARTITION TO ALIGN AT TWO POINTS.",
+          "NEW PARTITION TYPE TAG, REFER TO CORRESPONDING PARTITION"
+        ],
+        "text_length": 12010
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-200",
+          "A-906"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 9520
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-201"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10179
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-905",
+          "A-202"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10546
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-203"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10498
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906",
+          "A-902",
+          "A-801",
+          "A-204"
+        ],
+        "title_candidates": [
+          "REFLECTED CEILING LEGEND",
+          "REFLECTED CEILING NOTES",
+          "REFLECTED CEILING KEY NOTES"
+        ],
+        "text_length": 10665
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-401"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 6936
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-402"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7025
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-403"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7294
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-800",
+          "A-700",
+          "A-404"
+        ],
+        "title_candidates": [
+          "1. ALL NOTES ON THIS SHEET ARE IN ADDITION TO AND  SUPPLEMENTARY TO THE STANDARD GENERAL NOTES SHEET.",
+          "GENERAL CONTRACTOR SHOULD REVIEW SAID SHEET BEFORE COMMENCING ANY WORK. IN CASE OF CONFLICT NOTES,",
+          "6. PRIOR TO PAINTING ANY AND ALL DENTS, JOINTS & IRREGULARITIES IN NEW OR EXISTING PARTITIONS, CEILINGS, DOORS,"
+        ],
+        "text_length": 7363
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-406",
+          "A-400"
+        ],
+        "title_candidates": [
+          "FINISH LEGEND SHEET I",
+          "NOTES: REFER TO GENERAL FINISH NOTES AND FINISH PLAN",
+          "NOTE: SEE GENERAL FINISH NOTES FOR ADDITIONAL"
+        ],
+        "text_length": 18931
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-602"
+        ],
+        "title_candidates": [
+          "SCHEDULED PARTITION",
+          "SCHEDULED",
+          "SEE SCHEDULED PARTITION TYPE"
+        ],
+        "text_length": 2798
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-804",
+          "A-801"
+        ],
+        "title_candidates": [],
+        "text_length": 7153
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-803",
+          "A-701",
+          "A-802"
+        ],
+        "title_candidates": [],
+        "text_length": 5424
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-804"
+        ],
+        "title_candidates": [
+          "REFER TO PARTITION TYPE"
+        ],
+        "text_length": 3051
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-701",
+          "A-805"
+        ],
+        "title_candidates": [
+          "SCHEDULED FINISH. REFER TO",
+          "FINISH PLAN, FINISH SCHEDULE, AND",
+          "SCHEDULE"
+        ],
+        "text_length": 9294
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 13'-17' USE",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 8540
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "LINE OF SCHEDULED CEILING.",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT BETWEEN"
+        ],
+        "text_length": 7508
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-905"
+        ],
+        "title_candidates": [
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE",
+          "INDICATES WALL PARTITION. (SEE"
+        ],
+        "text_length": 8198
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-906"
+        ],
+        "title_candidates": [
+          "PARTITION AS\\X",
+          "SCHEDULED",
+          "SECURED TO PARTITION"
+        ],
+        "text_length": 5684
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-907"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 2306
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-910"
+        ],
+        "title_candidates": [
+          "STUD PARTITION (REFER TO",
+          "SCHEDULED RATED PARTITION",
+          "SINGLE CABLE THROUGH GYPSUM BOARD PARTITION"
+        ],
+        "text_length": 6174
+      }
+    ]
+  },
+  "all_wall_partition_types.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\all_wall_partition_types.pdf",
+    "size_mb": 0.5,
+    "total_pages": 2,
+    "target_sheet_matches": {
+      "A-900": [
+        1
+      ],
+      "A-901": [
+        2
+      ]
+    },
+    "first_page_dimensions": [
+      2592.0,
+      1728.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "PARTITION HEIGHT OVER 13'-17' USE",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT OVER 17'-22' USE"
+        ],
+        "text_length": 8540
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "LINE OF SCHEDULED CEILING.",
+          "LINE OF SCHEDULED CEILING.",
+          "PARTITION HEIGHT BETWEEN"
+        ],
+        "text_length": 7508
+      }
+    ]
+  },
+  "floor_wise_new_wall_partition_tags.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\floor_wise_new_wall_partition_tags.pdf",
+    "size_mb": 0.03,
+    "total_pages": 2,
+    "target_sheet_matches": {
+      "A-101": [
+        1
+      ],
+      "A-102": [
+        1
+      ],
+      "A-103": [
+        1
+      ],
+      "A-104": [
+        1
+      ],
+      "G-": [
+        1
+      ],
+      "A-900": [
+        2
+      ],
+      "A-901": [
+        2
+      ]
+    },
+    "first_page_dimensions": [
+      595.2755737304688,
+      841.8897705078125
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-101",
+          "A-102",
+          "A-103",
+          "A-104"
+        ],
+        "title_candidates": [
+          "Floor-Wise New Wall / Partition Tags",
+          "Wall / Partition Type",
+          "Partition Type 1D (Metal Stud / Gypsum Board)"
+        ],
+        "text_length": 1204
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-100",
+          "A-105",
+          "A-900",
+          "A-901"
+        ],
+        "title_candidates": [
+          "Wall / Partition Type",
+          "Perimeter Furring Partition",
+          "Partition Type 7E"
+        ],
+        "text_length": 701
+      }
+    ]
+  },
+  "protake_ai_wall_partition_data.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\protake_ai_wall_partition_data.pdf",
+    "size_mb": 0.03,
+    "total_pages": 2,
+    "target_sheet_matches": {
+      "A-101": [
+        1
+      ],
+      "A-102": [
+        1
+      ],
+      "A-103": [
+        1
+      ],
+      "A-104": [
+        1
+      ],
+      "A-900": [
+        2
+      ],
+      "A-901": [
+        2
+      ],
+      "G-": [
+        2
+      ]
+    },
+    "first_page_dimensions": [
+      595.2755737304688,
+      841.8897705078125
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-101",
+          "A-102",
+          "A-103",
+          "A-104",
+          "A-100",
+          "A-105"
+        ],
+        "title_candidates": [
+          "ProTake AI | Wall & Partition Data",
+          "ProTake AI \u2014 Wall & Partition Data",
+          "1. Floor-wise wall / partition tags"
+        ],
+        "text_length": 2548
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-900",
+          "A-901"
+        ],
+        "title_candidates": [
+          "ProTake AI | Wall & Partition Data",
+          "\u2022 Continuous acoustic sealant at top and bottom on both sides of sound partitions where specified."
+        ],
+        "text_length": 1088
+      }
+    ]
+  },
+  "wall_partition_data_json.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\wall_partition_data_json.pdf",
+    "size_mb": 0.04,
+    "total_pages": 7,
+    "target_sheet_matches": {
+      "A-900": [
+        1,
+        2,
+        3,
+        4,
+        7
+      ],
+      "A-901": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "G-": [
+        2
+      ]
+    },
+    "first_page_dimensions": [
+      595.2755737304688,
+      841.8897705078125
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-900",
+          "A-901"
+        ],
+        "title_candidates": [
+          "Wall & Partition Type Data \u2014 JSON",
+          "\"title\": \"Wall and Partition Type Data\",",
+          "\"Partition Types Sheet I\","
+        ],
+        "text_length": 3584
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 1D\",",
+          "\"Metal-stud partition\",",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 1E\","
+        ],
+        "text_length": 3364
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-900"
+        ],
+        "title_candidates": [
+          "\"For sound partition use continuous acoustic sealant top and bottom, each side.\",",
+          "\"confidence_note\": \"The two-layer board and staggered-joint callout is legible in the A-900 partition detail group.\"",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 3A\","
+        ],
+        "text_length": 3587
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-900",
+          "A-901"
+        ],
+        "title_candidates": [
+          "\"For sound partition use continuous acoustic sealant top and bottom, each side.\"",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 5D\",",
+          "\"Metal-stud partition\","
+        ],
+        "text_length": 3417
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "\"drawing_label\": \"FURRING PARTITION 7B\",",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 7C\",",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 7E\","
+        ],
+        "text_length": 3306
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-901"
+        ],
+        "title_candidates": [
+          "\"confidence_note\": \"The 2-hour rating and board types are explicitly visible in the shaft-wall detail.\"",
+          "\"drawing_label\": \"PARTITION TYPE DETAIL 7G\",",
+          "\"drawing_label\": \"FURRING PARTITION 8A\","
+        ],
+        "text_length": 3160
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [
+          "A-901",
+          "A-900"
+        ],
+        "title_candidates": [
+          "\"description\": \"Typical concrete-encased steel column detail; not a standard drywall partition.\"",
+          "\"general_notes_visible_on_sheets\": [",
+          "\"For sound partitions, use continuous acoustic/acoustical sealant at top and bottom, each side, where noted.\","
+        ],
+        "text_length": 1510
+      }
+    ]
+  },
+  "Drywall_QTO_SOP.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\Drywall_QTO_SOP.pdf",
+    "size_mb": 0.14,
+    "total_pages": 35,
+    "target_sheet_matches": {
+      "G-": [
+        26
+      ]
+    },
+    "first_page_dimensions": [
+      595.2755737304688,
+      841.8897705078125
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 359
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "1.2 Review General Notes Before Starting",
+          "2.1 Identify Drywall Walls on the Floor Plan",
+          "3.2 Different Colour Coding for Wall Types"
+        ],
+        "text_length": 3808
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 4271
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "1.2 Review General Notes Before Starting",
+          "The first step is to review the General Notes section of the construction drawings.",
+          "General Notes often contain important construction requirements that may not be repeated in"
+        ],
+        "text_length": 2385
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "construction to drywall partitions."
+        ],
+        "text_length": 2104
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 912
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "2.1 Identify Drywall Walls on the Floor Plan",
+          "The architectural floor plan is the primary drawing used to identify drywall wall locations and their",
+          "Different types of walls may be represented on the floor plan, including:"
+        ],
+        "text_length": 2101
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "In this situation, the drywall partition terminates at the suspended ceiling level.",
+          "In this situation, the drywall partition continues above the suspended ceiling and extends to the",
+          "These walls are commonly referred to as full-height or deck-height partitions."
+        ],
+        "text_length": 2402
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "2.6.1 Standard Drywall Partition",
+          "A standard drywall partition generally consists of metal studs and tracks with gypsum board",
+          "This type of wall is commonly used for interior room divisions and partitions."
+        ],
+        "text_length": 2562
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Standard Partition",
+          "As specified in the wall detail",
+          "For example, a standard partition with gypsum board on both sides requires more board area than"
+        ],
+        "text_length": 2220
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Architectural Floor Plan",
+          "Identify wall types and references"
+        ],
+        "text_length": 2394
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "3. Identify the relevant architectural floor plan sheets."
+        ],
+        "text_length": 874
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "The estimator uses this tool to trace the drywall wall lines on the floor plan and record their linear",
+          "3.2 Different Colour Coding for Wall Types",
+          "Different colours are assigned to different drywall wall types to make identification and quantity"
+        ],
+        "text_length": 2337
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2175
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1827
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Example Wall Assembly: 7A \u2013 Drywall Partition",
+          "Wall Type: 7A"
+        ],
+        "text_length": 1881
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Wall types have been assigned correctly.",
+          "1. Colour coding vs. wall specifications: Colours are only visual indicators. The actual wall type,",
+          "2. Identify drywall walls on the floor plan."
+        ],
+        "text_length": 2223
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1877
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1717
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "However, these are estimating assumptions, not confirmed project dimensions. The door schedule"
+        ],
+        "text_length": 1752
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "When a wood-framed drywall partition is installed directly over a concrete slab, a pressure-treated"
+        ],
+        "text_length": 1808
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2118
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2146
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Firestopping and Acoustic Sealant",
+          "The material may be applied at the top and bottom edges of a partition to improve acoustic",
+          "Firestopping, however, is a separate requirement and must use an approved firestop system"
+        ],
+        "text_length": 1854
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Wall Type."
+        ],
+        "text_length": 1609
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 500
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2004
+      },
+      {
+        "page": 28,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Wall Type Breakdown"
+        ],
+        "text_length": 1671
+      },
+      {
+        "page": 29,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "1. Review Architectural Drawings: Identify the correct drywall floor plans and construction details.",
+          "2. Complete PDF Annotation: Mark wall types, openings, lengths and relevant references.",
+          "7. Prepare Final Estimation Sheet: Organize quantities by material, unit and wall type."
+        ],
+        "text_length": 1162
+      },
+      {
+        "page": 30,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "(Before starting QA: review General Notes, Title Page / Drawing Index and Scale Verification as"
+        ],
+        "text_length": 2007
+      },
+      {
+        "page": 31,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1621
+      },
+      {
+        "page": 32,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2073
+      },
+      {
+        "page": 33,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "1. Review General Notes: Identify project-wide and scope-specific requirements.",
+          "General principle: General Notes > Drawing Index > Scale Verification > Drawing Markups >"
+        ],
+        "text_length": 2336
+      },
+      {
+        "page": 34,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Identify drywall wall lines from floor plans",
+          "Recognize wall types such as 5E and 7A",
+          "Assign different colours to different wall types"
+        ],
+        "text_length": 2238
+      },
+      {
+        "page": 35,
+        "dimensions": [
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "Identify firestopping requirements separately",
+          "General Notes"
+        ],
+        "text_length": 1966
+      }
+    ]
+  },
+  "test Spark Lake Grove - Permit Set.pdf": {
+    "path": "C:\\Users\\TEC ZONE\\Downloads\\test Spark Lake Grove - Permit Set.pdf",
+    "size_mb": 34.01,
+    "total_pages": 54,
+    "target_sheet_matches": {
+      "CS-": [
+        6
+      ],
+      "G-": [
+        24
+      ]
+    },
+    "first_page_dimensions": [
+      2592.0,
+      1728.0
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SCHED.       SCHEDULE",
+          "DRAWING NOTES",
+          "PARTITION KEY"
+        ],
+        "text_length": 10352
+      },
+      {
+        "page": 2,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 798
+      },
+      {
+        "page": 3,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "MATRIX, AND NOTES",
+          "ADDITIONAL OWNER NOTES"
+        ],
+        "text_length": 9244
+      },
+      {
+        "page": 4,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ONE SIDE PARTITION WALL (NON-RATED)",
+          "FINISH SCHEDULE",
+          "SHEAR WALL DETAIL"
+        ],
+        "text_length": 5815
+      },
+      {
+        "page": 5,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SEE PLAN FOR PARTITION",
+          "FINISH SCHEDULE",
+          "DETAILS, SCHEDULES,"
+        ],
+        "text_length": 5278
+      },
+      {
+        "page": 6,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ROOM FINISH SCHEDULES",
+          "NOTES AND DETAILS",
+          "FLOOR FINISH TRANSITION LINE. SEE FINISH SCHEDULE."
+        ],
+        "text_length": 3705
+      },
+      {
+        "page": 7,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ROOF PLAN, LEGEND AND",
+          "DENOTES PITCH OF ROOF STRUCTURE",
+          "ROOF PLAN LEGEND"
+        ],
+        "text_length": 3454
+      },
+      {
+        "page": 8,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "INSTALLATION NOTES:",
+          "ROOF TO EIFS WALL DETAIL"
+        ],
+        "text_length": 5103
+      },
+      {
+        "page": 9,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 3063
+      },
+      {
+        "page": 10,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2306
+      },
+      {
+        "page": 11,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SCHEDULE FOR",
+          "SCHEDULE AND EXTERIOR",
+          "LIGHTING SCHEDULE"
+        ],
+        "text_length": 3314
+      },
+      {
+        "page": 12,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "DOOR SCHEDULE FOR",
+          "SCHEDULE AND EXTERIOR",
+          "LIGHTING SCHEDULE"
+        ],
+        "text_length": 3523
+      },
+      {
+        "page": 13,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2065
+      },
+      {
+        "page": 14,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "*  SEE FINISH FLOOR PLAN"
+        ],
+        "text_length": 2289
+      },
+      {
+        "page": 15,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SCHEDULED @ 10'-0\" A.F.F.",
+          "SCHEDULED @ 10'-0\" A.F.F."
+        ],
+        "text_length": 5864
+      },
+      {
+        "page": 16,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 6759
+      },
+      {
+        "page": 17,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2745
+      },
+      {
+        "page": 18,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 5129
+      },
+      {
+        "page": 19,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ROOF WING WALL DETAIL"
+        ],
+        "text_length": 5379
+      },
+      {
+        "page": 20,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 5513
+      },
+      {
+        "page": 21,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "REFER TO EXTERIOR FINISH SCHEDULE ON"
+        ],
+        "text_length": 3101
+      },
+      {
+        "page": 22,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "ELEVATIONS, SCHEDULES",
+          "ACCESSIBILITY NOTES"
+        ],
+        "text_length": 5783
+      },
+      {
+        "page": 23,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2349
+      },
+      {
+        "page": 24,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "SCHEDULED FINISH",
+          "SCHEDULED FINISH TO",
+          "SCHEDULED FINISH"
+        ],
+        "text_length": 5442
+      },
+      {
+        "page": 25,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES:",
+          "ADDITIONAL NOTES:",
+          "GENERAL NOTES:"
+        ],
+        "text_length": 3492
+      },
+      {
+        "page": 26,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 2434
+      },
+      {
+        "page": 27,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "NOTES"
+        ],
+        "text_length": 1420
+      },
+      {
+        "page": 28,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1409
+      },
+      {
+        "page": 29,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1411
+      },
+      {
+        "page": 30,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1412
+      },
+      {
+        "page": 31,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1409
+      },
+      {
+        "page": 32,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1409
+      },
+      {
+        "page": 33,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 2666
+      },
+      {
+        "page": 34,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 1474
+      },
+      {
+        "page": 35,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 937
+      },
+      {
+        "page": 36,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "UNDERGROUND PLUMBING LEGEND"
+        ],
+        "text_length": 1058
+      },
+      {
+        "page": 37,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 983
+      },
+      {
+        "page": 38,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES",
+          "FIRE ALARM LEGEND",
+          "KEYED NOTES:"
+        ],
+        "text_length": 1118
+      },
+      {
+        "page": 39,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES:",
+          "NOTES AND SYMBOLS"
+        ],
+        "text_length": 940
+      },
+      {
+        "page": 40,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 886
+      },
+      {
+        "page": 41,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 1186
+      },
+      {
+        "page": 42,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 890
+      },
+      {
+        "page": 43,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1189
+      },
+      {
+        "page": 44,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES:",
+          "PLUMBING FIXTURE SCHEDULE"
+        ],
+        "text_length": 983
+      },
+      {
+        "page": 45,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 999
+      },
+      {
+        "page": 46,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 901
+      },
+      {
+        "page": 47,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 929
+      },
+      {
+        "page": 48,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1253
+      },
+      {
+        "page": 49,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "GENERAL NOTES:"
+        ],
+        "text_length": 937
+      },
+      {
+        "page": 50,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "CONTACTOR DIAGRAM NOTES:"
+        ],
+        "text_length": 2063
+      },
+      {
+        "page": 51,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 976
+      },
+      {
+        "page": 52,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [
+          "KEYED NOTES:"
+        ],
+        "text_length": 1084
+      },
+      {
+        "page": 53,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 904
+      },
+      {
+        "page": 54,
+        "dimensions": [
+          2592.0,
+          1728.0
+        ],
+        "detected_sheets": [],
+        "title_candidates": [],
+        "text_length": 1006
+      }
+    ]
+  }
+}

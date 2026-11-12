@@ -1,0 +1,2148 @@
+{
+  "file_path": "C:\\Users\\TEC ZONE\\Downloads\\file-1793194362940-560626729.pdf",
+  "total_pages": 71,
+  "dimensions_set": [
+    [
+      2592.0,
+      1728.0
+    ]
+  ],
+  "rotation_set": [
+    90
+  ],
+  "embedded_fonts_count": 9,
+  "embedded_fonts": [
+    "ArialMT",
+    "BCPWJW+MicrosoftSansSerif",
+    "CFWUZY+CenturyGothic",
+    "Helvetica75Bold10.5",
+    "JWTRVT+Arial",
+    "NBPIKY+SegoeUISymbol",
+    "QTBMYZ+ArialNarrow,Bold",
+    "ROCIYD+ArialNarrow",
+    "WDLTFM+Arial,Bold"
+  ],
+  "pages": [
+    {
+      "page_index": 0,
+      "page_number": 1,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 13647,
+      "path_items_count": 13647,
+      "fonts_count": 3,
+      "text_blocks_count": 14,
+      "text_lines_count": 15,
+      "candidate_sheet_numbers": [],
+      "sample_lines": [
+        "THE  METROPOLITAN  TRANSPORTATION AUTHORITY",
+        "MTA CONSTRUCTION & DEVELOPMENT",
+        "CONTRACT",
+        "C - 48526",
+        "ACTING BY"
+      ]
+    },
+    {
+      "page_index": 1,
+      "page_number": 2,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10828,
+      "path_items_count": 11796,
+      "fonts_count": 5,
+      "text_blocks_count": 1657,
+      "text_lines_count": 1371,
+      "candidate_sheet_numbers": [
+        "A-000",
+        "A-000",
+        "A-000",
+        "A-000",
+        "G-001"
+      ],
+      "sample_lines": [
+        "BUILDING INFO & CODE SYNOPSIS",
+        "AREA OF WORK",
+        "PLOT PLAN",
+        "1. THE CONSTRUCTION/RENOVATION WORK  DESCRIBED HEREIN SHALL",
+        "COMPLY WITH ALL  APPLICABLE FEDERAL, STATE, AND MUNICIPAL"
+      ]
+    },
+    {
+      "page_index": 2,
+      "page_number": 3,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 4029,
+      "path_items_count": 4032,
+      "fonts_count": 4,
+      "text_blocks_count": 1484,
+      "text_lines_count": 1166,
+      "candidate_sheet_numbers": [
+        "G-002",
+        "T-001",
+        "G-001",
+        "G-002",
+        "G-003",
+        "G-004",
+        "G-005",
+        "G-006",
+        "LS-100",
+        "LS-101",
+        "LS-102",
+        "LS-103",
+        "LS-104",
+        "LS-105",
+        "A-100",
+        "A-101",
+        "A-102",
+        "A-103",
+        "A-104",
+        "A-105",
+        "A-200",
+        "A-201",
+        "A-202",
+        "A-203",
+        "A-204",
+        "A-300",
+        "A-301",
+        "A-302",
+        "A-303",
+        "A-304",
+        "A-305",
+        "A-306",
+        "A-401",
+        "A-402",
+        "A-403",
+        "A-404",
+        "A-405",
+        "A-406",
+        "A-407",
+        "A-501",
+        "A-502",
+        "A-503",
+        "A-504",
+        "A-601",
+        "A-602",
+        "A-701",
+        "A-702",
+        "A-703",
+        "A-704",
+        "A-705",
+        "A-706",
+        "A-707",
+        "A-708",
+        "A-709",
+        "A-710",
+        "A-800",
+        "A-801",
+        "A-802",
+        "A-803",
+        "A-804",
+        "A-805",
+        "A-900",
+        "A-901",
+        "A-902",
+        "A-903",
+        "A-905",
+        "A-906",
+        "A-907",
+        "A-908",
+        "A-910",
+        "AV-101",
+        "AV-102",
+        "AV-103",
+        "AV-502",
+        "AV-503",
+        "AV-504",
+        "AV-602",
+        "AV-604",
+        "AV-701A",
+        "AV-701B",
+        "AV-702",
+        "AV-703",
+        "AV-704",
+        "AV-705A",
+        "AV-705B",
+        "AV-706",
+        "AV-707",
+        "AV-708",
+        "AV-901",
+        "AV-902",
+        "AV-903",
+        "E-001",
+        "E-101",
+        "E-102",
+        "E-103",
+        "E-301",
+        "E-401",
+        "E-402",
+        "E-403",
+        "E-404",
+        "E-405",
+        "E-406",
+        "E-500",
+        "E-501",
+        "E-502",
+        "E-503",
+        "E-504",
+        "E-505",
+        "E-600",
+        "E-601",
+        "E-602",
+        "E-603",
+        "E-604",
+        "E-901",
+        "E-902",
+        "E-903",
+        "E-904",
+        "E-905",
+        "E-906",
+        "FA-001",
+        "FA-301",
+        "FA-500",
+        "FA-501",
+        "FA-502",
+        "FA-503",
+        "FA-504",
+        "FA-505",
+        "M-001",
+        "M-301",
+        "M-302",
+        "M-303",
+        "M-401",
+        "M-402",
+        "M-403",
+        "M-500",
+        "M-501",
+        "M-502",
+        "M-503",
+        "M-504",
+        "M-505",
+        "M-600",
+        "M-601",
+        "M-602",
+        "M-603",
+        "M-604",
+        "M-901",
+        "M-902",
+        "M-903",
+        "P-001",
+        "P-101",
+        "P-500",
+        "P-501",
+        "P-502",
+        "P-503",
+        "P-504",
+        "P-505",
+        "P-901",
+        "SC-001",
+        "SC-101",
+        "SC-301",
+        "SC-302",
+        "SC-501",
+        "SC-502",
+        "SC-503",
+        "SC-504",
+        "SC-505",
+        "SC-801",
+        "SC-901",
+        "SC-902",
+        "SP-001",
+        "SP-101",
+        "SP-301",
+        "SP-500",
+        "SP-501",
+        "SP-502",
+        "SP-503",
+        "SP-504",
+        "SP-505",
+        "SP-901",
+        "S-000",
+        "S-001",
+        "S-010",
+        "S-011",
+        "S-012",
+        "S-013",
+        "S-014",
+        "S-110",
+        "S-111",
+        "S-112",
+        "S-113",
+        "S-114",
+        "S-115",
+        "S-710",
+        "S-711",
+        "S-712",
+        "S-850",
+        "S-851",
+        "S-860",
+        "S-861",
+        "S-862",
+        "TC-001",
+        "TC-101",
+        "TC-102",
+        "TC-301",
+        "TC-500",
+        "TC-501",
+        "TC-502",
+        "TC-503",
+        "TC-504",
+        "TC-600",
+        "TC-601",
+        "TC-602",
+        "TC-603",
+        "TC-604",
+        "TC-801",
+        "TC-901",
+        "TC-902"
+      ],
+      "sample_lines": [
+        "SPEC SECTIONS",
+        "024119 - DEMO",
+        "033000 - CAST-IN-PLACE CONCRETE",
+        "042000 - UNIT MASONRY",
+        "055000 - MISC METALS"
+      ]
+    },
+    {
+      "page_index": 3,
+      "page_number": 4,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 926,
+      "path_items_count": 929,
+      "fonts_count": 3,
+      "text_blocks_count": 1788,
+      "text_lines_count": 615,
+      "candidate_sheet_numbers": [
+        "G-003"
+      ],
+      "sample_lines": [
+        "1. THE CONTRACTOR SHALL SUBMIT A SUBMITTAL SCHEDULE FOR REVIEW",
+        "AND APPROVAL. THE ARCHITECT'S ACTION IN REVIEWING SUBMITTALS",
+        "SHALL BE TAKEN IN ACCORDANCE WITH THE APPROVED SUBMITTAL",
+        "SCHEDULE OR, IN THE ABSENCE OF AN APPROVED SUBMITTAL",
+        "SCHEDULE, WITH REASONABLE PROMPTNESS, AND IN SUCH SEQUENCE"
+      ]
+    },
+    {
+      "page_index": 4,
+      "page_number": 5,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 205,
+      "path_items_count": 210,
+      "fonts_count": 3,
+      "text_blocks_count": 1248,
+      "text_lines_count": 64,
+      "candidate_sheet_numbers": [
+        "G-004"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 5,
+      "page_number": 6,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 195,
+      "path_items_count": 198,
+      "fonts_count": 3,
+      "text_blocks_count": 1249,
+      "text_lines_count": 65,
+      "candidate_sheet_numbers": [
+        "G-005"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 6,
+      "page_number": 7,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 190,
+      "path_items_count": 193,
+      "fonts_count": 3,
+      "text_blocks_count": 1245,
+      "text_lines_count": 62,
+      "candidate_sheet_numbers": [
+        "G-006"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 7,
+      "page_number": 8,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10178,
+      "path_items_count": 10290,
+      "fonts_count": 4,
+      "text_blocks_count": 1532,
+      "text_lines_count": 433,
+      "candidate_sheet_numbers": [
+        "LS-100"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "FE",
+        "FE",
+        "FE"
+      ]
+    },
+    {
+      "page_index": 8,
+      "page_number": 9,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 29162,
+      "path_items_count": 29383,
+      "fonts_count": 4,
+      "text_blocks_count": 1643,
+      "text_lines_count": 652,
+      "candidate_sheet_numbers": [
+        "LS-101"
+      ],
+      "sample_lines": [
+        "DN",
+        "DN",
+        "DN",
+        "UP",
+        "DN"
+      ]
+    },
+    {
+      "page_index": 9,
+      "page_number": 10,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 135967,
+      "path_items_count": 136127,
+      "fonts_count": 4,
+      "text_blocks_count": 1593,
+      "text_lines_count": 602,
+      "candidate_sheet_numbers": [
+        "LS-102"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "DN",
+        "WD",
+        "A"
+      ]
+    },
+    {
+      "page_index": 10,
+      "page_number": 11,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 118496,
+      "path_items_count": 118672,
+      "fonts_count": 4,
+      "text_blocks_count": 1582,
+      "text_lines_count": 649,
+      "candidate_sheet_numbers": [
+        "LS-103"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "WD",
+        "DN",
+        "UP"
+      ]
+    },
+    {
+      "page_index": 11,
+      "page_number": 12,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 110560,
+      "path_items_count": 110718,
+      "fonts_count": 4,
+      "text_blocks_count": 1558,
+      "text_lines_count": 631,
+      "candidate_sheet_numbers": [
+        "LS-104"
+      ],
+      "sample_lines": [
+        "DN",
+        "WD",
+        "DN",
+        "UP",
+        "A"
+      ]
+    },
+    {
+      "page_index": 12,
+      "page_number": 13,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10754,
+      "path_items_count": 11006,
+      "fonts_count": 4,
+      "text_blocks_count": 1530,
+      "text_lines_count": 449,
+      "candidate_sheet_numbers": [
+        "A-801",
+        "LS-105"
+      ],
+      "sample_lines": [
+        "DN",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "page_index": 13,
+      "page_number": 14,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10788,
+      "path_items_count": 10898,
+      "fonts_count": 4,
+      "text_blocks_count": 1504,
+      "text_lines_count": 452,
+      "candidate_sheet_numbers": [
+        "A-802",
+        "A-801",
+        "A-801",
+        "A-802",
+        "A-100"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "FE",
+        "FE",
+        "FE"
+      ]
+    },
+    {
+      "page_index": 14,
+      "page_number": 15,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 21458,
+      "path_items_count": 21721,
+      "fonts_count": 4,
+      "text_blocks_count": 1585,
+      "text_lines_count": 571,
+      "candidate_sheet_numbers": [
+        "A-706",
+        "A-706",
+        "A-702",
+        "A-802",
+        "A-801",
+        "A-802",
+        "A-800",
+        "A-706",
+        "A-907",
+        "A-907",
+        "A-901",
+        "A-901",
+        "A-901",
+        "A-901",
+        "A-901",
+        "A-901",
+        "A-901",
+        "A-101"
+      ],
+      "sample_lines": [
+        "DN",
+        "DN",
+        "DN",
+        "UP",
+        "DN"
+      ]
+    },
+    {
+      "page_index": 15,
+      "page_number": 16,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 89450,
+      "path_items_count": 89661,
+      "fonts_count": 4,
+      "text_blocks_count": 1632,
+      "text_lines_count": 644,
+      "candidate_sheet_numbers": [
+        "A-701",
+        "A-701",
+        "A-703",
+        "A-703",
+        "A-802",
+        "A-801",
+        "A-707",
+        "A-801",
+        "A-801",
+        "A-802",
+        "A-802",
+        "A-708",
+        "A-709",
+        "A-703",
+        "A-901",
+        "A-102"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "UP",
+        "DN",
+        "WD"
+      ]
+    },
+    {
+      "page_index": 16,
+      "page_number": 17,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 47167,
+      "path_items_count": 47375,
+      "fonts_count": 4,
+      "text_blocks_count": 1597,
+      "text_lines_count": 605,
+      "candidate_sheet_numbers": [
+        "A-701",
+        "A-704",
+        "A-704",
+        "A-802",
+        "A-708",
+        "A-801",
+        "A-706",
+        "A-801",
+        "A-802",
+        "A-709",
+        "A-708",
+        "A-702",
+        "A-706",
+        "A-103"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "DN",
+        "UP",
+        "FE"
+      ]
+    },
+    {
+      "page_index": 17,
+      "page_number": 18,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 50419,
+      "path_items_count": 50674,
+      "fonts_count": 4,
+      "text_blocks_count": 1634,
+      "text_lines_count": 645,
+      "candidate_sheet_numbers": [
+        "A-701",
+        "A-705",
+        "A-705",
+        "A-702",
+        "A-802",
+        "A-801",
+        "A-706",
+        "A-707",
+        "A-707",
+        "A-801",
+        "A-802",
+        "A-902",
+        "A-902",
+        "A-709",
+        "A-710",
+        "A-706",
+        "A-901",
+        "A-710",
+        "A-104"
+      ],
+      "sample_lines": [
+        "DN",
+        "WD",
+        "DN",
+        "UP",
+        "A"
+      ]
+    },
+    {
+      "page_index": 18,
+      "page_number": 19,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 8672,
+      "path_items_count": 8777,
+      "fonts_count": 4,
+      "text_blocks_count": 1485,
+      "text_lines_count": 432,
+      "candidate_sheet_numbers": [
+        "A-801",
+        "A-710",
+        "A-105"
+      ],
+      "sample_lines": [
+        "DN",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "page_index": 19,
+      "page_number": 20,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10995,
+      "path_items_count": 11084,
+      "fonts_count": 4,
+      "text_blocks_count": 1476,
+      "text_lines_count": 387,
+      "candidate_sheet_numbers": [
+        "A-200",
+        "A-906 FOR CEILING DETAILS"
+      ],
+      "sample_lines": [
+        "VERIFY ALL LIGHT",
+        "FIXTURES LOCATIONS IN",
+        "FIELD AND CONSULT AOR",
+        "BEFORE INSTALLATION,",
+        "TYPICAL THROUGHOUT."
+      ]
+    },
+    {
+      "page_index": 20,
+      "page_number": 21,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 38025,
+      "path_items_count": 38255,
+      "fonts_count": 4,
+      "text_blocks_count": 1568,
+      "text_lines_count": 560,
+      "candidate_sheet_numbers": [
+        "A-906",
+        "A-201",
+        "A-906 FOR CEILING DETAILS"
+      ],
+      "sample_lines": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "page_index": 21,
+      "page_number": 22,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 43143,
+      "path_items_count": 43388,
+      "fonts_count": 4,
+      "text_blocks_count": 1656,
+      "text_lines_count": 784,
+      "candidate_sheet_numbers": [
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-905",
+        "A-905",
+        "A-905",
+        "A-905",
+        "A-906",
+        "A-906",
+        "A-202",
+        "A-906 FOR CEILING DETAILS"
+      ],
+      "sample_lines": [
+        "C",
+        "D",
+        "E",
+        "E",
+        "C"
+      ]
+    },
+    {
+      "page_index": 22,
+      "page_number": 23,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 67418,
+      "path_items_count": 67687,
+      "fonts_count": 4,
+      "text_blocks_count": 1590,
+      "text_lines_count": 657,
+      "candidate_sheet_numbers": [
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-203",
+        "A-906 FOR CEILING DETAILS"
+      ],
+      "sample_lines": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "page_index": 23,
+      "page_number": 24,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 618536,
+      "path_items_count": 618884,
+      "fonts_count": 5,
+      "text_blocks_count": 1661,
+      "text_lines_count": 699,
+      "candidate_sheet_numbers": [
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-902",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-906",
+        "A-801",
+        "A-204",
+        "A-906 FOR CEILING DETAILS"
+      ],
+      "sample_lines": [
+        "40.0 K",
+        "3'-6\" MIN.",
+        "CLEAR SPACE",
+        "3'-6\" MIN.",
+        "CLEAR SPACE"
+      ]
+    },
+    {
+      "page_index": 24,
+      "page_number": 25,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 9381,
+      "path_items_count": 9491,
+      "fonts_count": 4,
+      "text_blocks_count": 1377,
+      "text_lines_count": 364,
+      "candidate_sheet_numbers": [
+        "A-300"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "FE",
+        "FE",
+        "FE"
+      ]
+    },
+    {
+      "page_index": 25,
+      "page_number": 26,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 19008,
+      "path_items_count": 19165,
+      "fonts_count": 4,
+      "text_blocks_count": 1458,
+      "text_lines_count": 466,
+      "candidate_sheet_numbers": [
+        "A-301"
+      ],
+      "sample_lines": [
+        "J",
+        "DN",
+        "DN",
+        "J",
+        "DN"
+      ]
+    },
+    {
+      "page_index": 26,
+      "page_number": 27,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 120874,
+      "path_items_count": 121027,
+      "fonts_count": 4,
+      "text_blocks_count": 1544,
+      "text_lines_count": 571,
+      "candidate_sheet_numbers": [
+        "A-302"
+      ],
+      "sample_lines": [
+        "J",
+        "J",
+        "J",
+        "J",
+        "DN"
+      ]
+    },
+    {
+      "page_index": 27,
+      "page_number": 28,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 84502,
+      "path_items_count": 84689,
+      "fonts_count": 4,
+      "text_blocks_count": 1608,
+      "text_lines_count": 654,
+      "candidate_sheet_numbers": [
+        "A-303"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "J",
+        "J",
+        "J"
+      ]
+    },
+    {
+      "page_index": 28,
+      "page_number": 29,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 81424,
+      "path_items_count": 81640,
+      "fonts_count": 4,
+      "text_blocks_count": 1657,
+      "text_lines_count": 691,
+      "candidate_sheet_numbers": [
+        "A-304"
+      ],
+      "sample_lines": [
+        "AV",
+        "J",
+        "DN",
+        "J",
+        "J"
+      ]
+    },
+    {
+      "page_index": 29,
+      "page_number": 30,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 8044,
+      "path_items_count": 8162,
+      "fonts_count": 4,
+      "text_blocks_count": 1356,
+      "text_lines_count": 331,
+      "candidate_sheet_numbers": [
+        "A-305"
+      ],
+      "sample_lines": [
+        "POWER & COMMUNICATIONS LEGEND",
+        "INDICATES NEW WALL MOUNTED DUPLEX ELECTRICAL OUTLET/RECEPTACLE,",
+        "MOUNTED AT 15\" A.F.F., U.O.N.",
+        "INDICATES NEW WALL MOUNTED QUADRUPLEX ELECTRICAL OUTLET/RECEPTACLE,",
+        "MOUNTED AT 15\" A.F.F., U.O.N."
+      ]
+    },
+    {
+      "page_index": 30,
+      "page_number": 31,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 2148,
+      "path_items_count": 2151,
+      "fonts_count": 3,
+      "text_blocks_count": 1303,
+      "text_lines_count": 788,
+      "candidate_sheet_numbers": [
+        "A-306",
+        "K-2084-L-0",
+        "K-2882-0",
+        "H-3947",
+        "ESD-200-LT-CP",
+        "ESD-800-CP",
+        "B-3094",
+        "B-221",
+        "B-212",
+        "B-6806",
+        "B-6806",
+        "B-6806",
+        "B-6806",
+        "B-6806",
+        "B-204-2",
+        "B-207",
+        "B-3706 25",
+        "B-354",
+        "B-254",
+        "B-369",
+        "B-39747",
+        "VT-735-80",
+        "SD-255-",
+        "SF-5216E",
+        "BB-7216M-V2",
+        "H-1135-WOOD"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 31,
+      "page_number": 32,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 15894,
+      "path_items_count": 16147,
+      "fonts_count": 4,
+      "text_blocks_count": 1431,
+      "text_lines_count": 335,
+      "candidate_sheet_numbers": [
+        "A-401"
+      ],
+      "sample_lines": [
+        "DN",
+        "DN",
+        "UP",
+        "DN",
+        "UP"
+      ]
+    },
+    {
+      "page_index": 32,
+      "page_number": 33,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 83023,
+      "path_items_count": 83307,
+      "fonts_count": 4,
+      "text_blocks_count": 1461,
+      "text_lines_count": 374,
+      "candidate_sheet_numbers": [
+        "A-402"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "DN",
+        "WD",
+        "A"
+      ]
+    },
+    {
+      "page_index": 33,
+      "page_number": 34,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 17334,
+      "path_items_count": 17718,
+      "fonts_count": 4,
+      "text_blocks_count": 1480,
+      "text_lines_count": 432,
+      "candidate_sheet_numbers": [
+        "A-403"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "WD",
+        "FE",
+        "A"
+      ]
+    },
+    {
+      "page_index": 34,
+      "page_number": 35,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 17321,
+      "path_items_count": 17685,
+      "fonts_count": 4,
+      "text_blocks_count": 1502,
+      "text_lines_count": 444,
+      "candidate_sheet_numbers": [
+        "A-404"
+      ],
+      "sample_lines": [
+        "DN",
+        "WD",
+        "DN",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "page_index": 35,
+      "page_number": 36,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 3878,
+      "path_items_count": 3985,
+      "fonts_count": 4,
+      "text_blocks_count": 1336,
+      "text_lines_count": 194,
+      "candidate_sheet_numbers": [
+        "A-405"
+      ],
+      "sample_lines": [
+        "NOTE:",
+        "G.C. TO PROVIDE UNDERLAYMENT TO",
+        "ACCOMMODATE UNIFORM FLOORING",
+        "HEIGHT AMONGST SPECIFIED",
+        "ADJOINING MATERIALS AS REQUIRED."
+      ]
+    },
+    {
+      "page_index": 36,
+      "page_number": 37,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 1041,
+      "path_items_count": 1119,
+      "fonts_count": 3,
+      "text_blocks_count": 1825,
+      "text_lines_count": 657,
+      "candidate_sheet_numbers": [
+        "A-406"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 37,
+      "page_number": 38,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 564,
+      "path_items_count": 612,
+      "fonts_count": 3,
+      "text_blocks_count": 1506,
+      "text_lines_count": 324,
+      "candidate_sheet_numbers": [
+        "A-407"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 38,
+      "page_number": 39,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 7638,
+      "path_items_count": 7688,
+      "fonts_count": 4,
+      "text_blocks_count": 1290,
+      "text_lines_count": 112,
+      "candidate_sheet_numbers": [
+        "A-500"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "FE",
+        "FE",
+        "FE"
+      ]
+    },
+    {
+      "page_index": 39,
+      "page_number": 40,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 18903,
+      "path_items_count": 18997,
+      "fonts_count": 4,
+      "text_blocks_count": 1335,
+      "text_lines_count": 191,
+      "candidate_sheet_numbers": [
+        "A-501"
+      ],
+      "sample_lines": [
+        "DN",
+        "DN",
+        "DN",
+        "UP",
+        "DN"
+      ]
+    },
+    {
+      "page_index": 40,
+      "page_number": 41,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 118793,
+      "path_items_count": 118874,
+      "fonts_count": 4,
+      "text_blocks_count": 1356,
+      "text_lines_count": 230,
+      "candidate_sheet_numbers": [
+        "A-502"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "DN",
+        "WD",
+        "A"
+      ]
+    },
+    {
+      "page_index": 41,
+      "page_number": 42,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 79975,
+      "path_items_count": 80061,
+      "fonts_count": 4,
+      "text_blocks_count": 1378,
+      "text_lines_count": 260,
+      "candidate_sheet_numbers": [
+        "A-503"
+      ],
+      "sample_lines": [
+        "DN",
+        "UP",
+        "WD",
+        "FE",
+        "A"
+      ]
+    },
+    {
+      "page_index": 42,
+      "page_number": 43,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 71104,
+      "path_items_count": 71204,
+      "fonts_count": 4,
+      "text_blocks_count": 1378,
+      "text_lines_count": 270,
+      "candidate_sheet_numbers": [
+        "A-504"
+      ],
+      "sample_lines": [
+        "DN",
+        "WD",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "page_index": 43,
+      "page_number": 44,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 6791,
+      "path_items_count": 6848,
+      "fonts_count": 4,
+      "text_blocks_count": 1276,
+      "text_lines_count": 101,
+      "candidate_sheet_numbers": [
+        "A-505"
+      ],
+      "sample_lines": [
+        "DN",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "page_index": 44,
+      "page_number": 45,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 4108,
+      "path_items_count": 4111,
+      "fonts_count": 3,
+      "text_blocks_count": 1340,
+      "text_lines_count": 983,
+      "candidate_sheet_numbers": [
+        "A-601"
+      ],
+      "sample_lines": [
+        "TYPE 'A'",
+        "HOLLOW METAL DOOR 1-1/2 HR",
+        "RATED W/ 100 SQ. FT LITE GLASS",
+        "PANEL (4\" X 25\")",
+        "TYPE 'B'"
+      ]
+    },
+    {
+      "page_index": 45,
+      "page_number": 46,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 10268,
+      "path_items_count": 10345,
+      "fonts_count": 5,
+      "text_blocks_count": 1311,
+      "text_lines_count": 167,
+      "candidate_sheet_numbers": [
+        "A-602"
+      ],
+      "sample_lines": [
+        "CAULK FRAME",
+        "AT WALL (TYP.)",
+        "SCHEDULED PARTITION",
+        "DOUBLE METAL STUDS",
+        "H.M. FRAME"
+      ]
+    },
+    {
+      "page_index": 46,
+      "page_number": 47,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 40127,
+      "path_items_count": 40433,
+      "fonts_count": 4,
+      "text_blocks_count": 1632,
+      "text_lines_count": 564,
+      "candidate_sheet_numbers": [
+        "A-701",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-906",
+        "A-701",
+        "A-805",
+        "A-805",
+        "A-906",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-701",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-906",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-701"
+      ],
+      "sample_lines": [
+        "WD",
+        "WD",
+        "WD",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "page_index": 47,
+      "page_number": 48,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 28683,
+      "path_items_count": 28889,
+      "fonts_count": 4,
+      "text_blocks_count": 1558,
+      "text_lines_count": 432,
+      "candidate_sheet_numbers": [
+        "A-702",
+        "A-702",
+        "A-702",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-805",
+        "A-702",
+        "A-702"
+      ],
+      "sample_lines": [
+        "G",
+        "1",
+        "A-702",
+        "02",
+        "04"
+      ]
+    },
+    {
+      "page_index": 48,
+      "page_number": 49,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 97463,
+      "path_items_count": 97687,
+      "fonts_count": 4,
+      "text_blocks_count": 1581,
+      "text_lines_count": 476,
+      "candidate_sheet_numbers": [
+        "A-703",
+        "A-703",
+        "A-703",
+        "A-703",
+        "A-703",
+        "A-703",
+        "A-703"
+      ],
+      "sample_lines": [
+        "17\" MAX",
+        "24\"",
+        "OPEN TO",
+        "BEYOND",
+        "UR1"
+      ]
+    },
+    {
+      "page_index": 49,
+      "page_number": 50,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 28696,
+      "path_items_count": 28881,
+      "fonts_count": 4,
+      "text_blocks_count": 1502,
+      "text_lines_count": 391,
+      "candidate_sheet_numbers": [
+        "A-805",
+        "A-805",
+        "A-704",
+        "A-704",
+        "A-704"
+      ],
+      "sample_lines": [
+        "34\" MAX",
+        "SK2",
+        "SK2",
+        "SD2",
+        "SD2"
+      ]
+    },
+    {
+      "page_index": 50,
+      "page_number": 51,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 26616,
+      "path_items_count": 26795,
+      "fonts_count": 4,
+      "text_blocks_count": 1489,
+      "text_lines_count": 361,
+      "candidate_sheet_numbers": [
+        "A-805",
+        "A-805",
+        "A-705",
+        "A-705",
+        "A-705"
+      ],
+      "sample_lines": [
+        "34\" MAX",
+        "40\" MAX.",
+        "SD2",
+        "UR1",
+        "24\" MAX"
+      ]
+    },
+    {
+      "page_index": 51,
+      "page_number": 52,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 25420,
+      "path_items_count": 25635,
+      "fonts_count": 4,
+      "text_blocks_count": 1436,
+      "text_lines_count": 339,
+      "candidate_sheet_numbers": [
+        "A-805",
+        "A-706",
+        "A-706",
+        "A-901",
+        "A-706"
+      ],
+      "sample_lines": [
+        "UP",
+        "+- 8'-0\" CH",
+        "+- 0'-0\"",
+        "TV5",
+        "4\""
+      ]
+    },
+    {
+      "page_index": 52,
+      "page_number": 53,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 5671,
+      "path_items_count": 5811,
+      "fonts_count": 4,
+      "text_blocks_count": 1331,
+      "text_lines_count": 195,
+      "candidate_sheet_numbers": [
+        "A-901",
+        "A-707"
+      ],
+      "sample_lines": [
+        "+- 8'-0\" CH",
+        "+- 0'-0\"",
+        "TV3",
+        "EQ",
+        "EQ"
+      ]
+    },
+    {
+      "page_index": 53,
+      "page_number": 54,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 12506,
+      "path_items_count": 12733,
+      "fonts_count": 4,
+      "text_blocks_count": 1354,
+      "text_lines_count": 216,
+      "candidate_sheet_numbers": [
+        "A-708"
+      ],
+      "sample_lines": [
+        "11' - 5\"",
+        "10' - 4\"",
+        "18' - 0\"",
+        "126\u00b0",
+        "54\u00b0"
+      ]
+    },
+    {
+      "page_index": 54,
+      "page_number": 55,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 1434,
+      "path_items_count": 1557,
+      "fonts_count": 4,
+      "text_blocks_count": 1309,
+      "text_lines_count": 155,
+      "candidate_sheet_numbers": [
+        "A-709"
+      ],
+      "sample_lines": [
+        "67\u00b0",
+        "19' - 1\"",
+        "8' - 0\"",
+        "PT-1",
+        "B-10"
+      ]
+    },
+    {
+      "page_index": 55,
+      "page_number": 56,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 2663,
+      "path_items_count": 2746,
+      "fonts_count": 4,
+      "text_blocks_count": 1287,
+      "text_lines_count": 127,
+      "candidate_sheet_numbers": [
+        "A-710"
+      ],
+      "sample_lines": [
+        "9' - 2 1/4\"",
+        "15' - 11\"",
+        "51\u00b0",
+        "5' - 4\"",
+        "PT-1"
+      ]
+    },
+    {
+      "page_index": 56,
+      "page_number": 57,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 14517,
+      "path_items_count": 14710,
+      "fonts_count": 4,
+      "text_blocks_count": 1442,
+      "text_lines_count": 281,
+      "candidate_sheet_numbers": [
+        "A-800",
+        "A-800",
+        "A-800",
+        "A-800",
+        "A-800",
+        "A-800"
+      ],
+      "sample_lines": [
+        "DN",
+        "C",
+        "D",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "page_index": 57,
+      "page_number": 58,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 33795,
+      "path_items_count": 34057,
+      "fonts_count": 4,
+      "text_blocks_count": 1703,
+      "text_lines_count": 602,
+      "candidate_sheet_numbers": [
+        "A-803",
+        "A-803",
+        "A-803",
+        "A-803",
+        "A-804",
+        "A-801"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "DN",
+        "UP",
+        "UP"
+      ]
+    },
+    {
+      "page_index": 58,
+      "page_number": 59,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 31030,
+      "path_items_count": 31180,
+      "fonts_count": 4,
+      "text_blocks_count": 1587,
+      "text_lines_count": 460,
+      "candidate_sheet_numbers": [
+        "A-803",
+        "A-803",
+        "A-803",
+        "A-701",
+        "A-802"
+      ],
+      "sample_lines": [
+        "UP",
+        "UP",
+        "DN",
+        "UP",
+        "TOOL CRIB RCP'S"
+      ]
+    },
+    {
+      "page_index": 59,
+      "page_number": 60,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 20414,
+      "path_items_count": 20614,
+      "fonts_count": 3,
+      "text_blocks_count": 1477,
+      "text_lines_count": 318,
+      "candidate_sheet_numbers": [
+        "A-803"
+      ],
+      "sample_lines": [
+        "3\"",
+        "MC 8 X 11.5",
+        "STRINGER TYP.",
+        "1/4\" LANDING",
+        "METAL PAN"
+      ]
+    },
+    {
+      "page_index": 60,
+      "page_number": 61,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 8297,
+      "path_items_count": 8382,
+      "fonts_count": 3,
+      "text_blocks_count": 1348,
+      "text_lines_count": 173,
+      "candidate_sheet_numbers": [
+        "A-804"
+      ],
+      "sample_lines": [
+        "1 1/2\"",
+        "4\"",
+        "TS 1 1/2\" x 1 1/2\" x 3/16\" END POST, FULL",
+        "WELDED TO STAIR STRINGER",
+        "PTD. MTL. MESH GUARDRAIL"
+      ]
+    },
+    {
+      "page_index": 61,
+      "page_number": 62,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 35948,
+      "path_items_count": 36240,
+      "fonts_count": 4,
+      "text_blocks_count": 1635,
+      "text_lines_count": 509,
+      "candidate_sheet_numbers": [
+        "A-805",
+        "A-805"
+      ],
+      "sample_lines": [
+        "EXTERIOR FINISH:",
+        "INTERIOR FINISH:",
+        "COUNTER TOP FINISH:",
+        "BACKSPLASH FINISH:",
+        "PLASTIC LAMINATE"
+      ]
+    },
+    {
+      "page_index": 62,
+      "page_number": 63,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 14734,
+      "path_items_count": 14935,
+      "fonts_count": 4,
+      "text_blocks_count": 1545,
+      "text_lines_count": 391,
+      "candidate_sheet_numbers": [
+        "A-900"
+      ],
+      "sample_lines": [
+        "6\"",
+        "(1) LAYER OF 5/8\" GYPSUM WALL",
+        "BOARD ON EACH SIDE OF METAL",
+        "STUD.",
+        "EXISTING FLOOR SLAB."
+      ]
+    },
+    {
+      "page_index": 63,
+      "page_number": 64,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 25778,
+      "path_items_count": 25963,
+      "fonts_count": 4,
+      "text_blocks_count": 1517,
+      "text_lines_count": 367,
+      "candidate_sheet_numbers": [
+        "A-901"
+      ],
+      "sample_lines": [
+        "INFINIUM QUANTUM SINGLE",
+        "BUTT-GLAZED CENTER OFFICE",
+        "FRONT SYSTEM",
+        "R-19 INSULATION",
+        "CONTINUE ALL THE WAY TO"
+      ]
+    },
+    {
+      "page_index": 64,
+      "page_number": 65,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 12421,
+      "path_items_count": 12462,
+      "fonts_count": 4,
+      "text_blocks_count": 1291,
+      "text_lines_count": 115,
+      "candidate_sheet_numbers": [
+        "A-902",
+        "A-902"
+      ],
+      "sample_lines": [
+        "G",
+        "H",
+        "2.2",
+        "NEW MODERNFOLD ACOUSTI-",
+        "SEAL LEGACY PAIRED PANEL"
+      ]
+    },
+    {
+      "page_index": 65,
+      "page_number": 66,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 5405,
+      "path_items_count": 24218,
+      "fonts_count": 52,
+      "text_blocks_count": 1262,
+      "text_lines_count": 100,
+      "candidate_sheet_numbers": [
+        "A-903"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 66,
+      "page_number": 67,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 9438,
+      "path_items_count": 9726,
+      "fonts_count": 3,
+      "text_blocks_count": 1501,
+      "text_lines_count": 371,
+      "candidate_sheet_numbers": [
+        "A-905"
+      ],
+      "sample_lines": [
+        "REFER TO RCP",
+        "CEILING HEIGHT",
+        "INDICATES WALL PARTITION. (SEE",
+        "CONSTRUCTION PLAN)",
+        "ACOUSTIC LAY-IN CEILING TILE"
+      ]
+    },
+    {
+      "page_index": 67,
+      "page_number": 68,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 9302,
+      "path_items_count": 9500,
+      "fonts_count": 3,
+      "text_blocks_count": 1401,
+      "text_lines_count": 273,
+      "candidate_sheet_numbers": [
+        "A-906"
+      ],
+      "sample_lines": [
+        "1/4\" DIA. METAL ROD OR 1/8\"",
+        "FLAT STRAP HANGER SECURED",
+        "TO STRUCTURE ABOVE. NOT TO",
+        "EXCEED 4'-0\" O.C.",
+        "1 1/2\" 16 GA. COLD ROLLED"
+      ]
+    },
+    {
+      "page_index": 68,
+      "page_number": 69,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 3392,
+      "path_items_count": 3437,
+      "fonts_count": 4,
+      "text_blocks_count": 1295,
+      "text_lines_count": 119,
+      "candidate_sheet_numbers": [
+        "A-907",
+        "A-907",
+        "A-907"
+      ],
+      "sample_lines": [
+        "EXISTING CMU WALL TO REMAIN",
+        "NEW WALL TO EXISTING DECK",
+        "3",
+        "A-907",
+        "4 EQ. PANELS"
+      ]
+    },
+    {
+      "page_index": 69,
+      "page_number": 70,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 234,
+      "path_items_count": 237,
+      "fonts_count": 3,
+      "text_blocks_count": 1334,
+      "text_lines_count": 70,
+      "candidate_sheet_numbers": [
+        "A-908"
+      ],
+      "sample_lines": [
+        "IN CONSIDERATION  OF RECEIVING  DRAWINGS  FROM TPG ARCHITECTURE",
+        "LLP IN  AN   ELECTRONIC  FORM,  THE  RECIPIENT   AGREES,   TO   THE",
+        "FULLEST  EXTENT PERMITTED  BY  LAW,  TO HOLD HARMLESS AND  INDEMNIFY",
+        "TPG  ARCHITECTURE LLP  FROM   AND   AGAINST  ALL  CLAIMS,   LIABILITIES,",
+        "LOSSES,  DAMAGES,  AND COSTS, INCLUDING  BUT  NOT LIMITED  TO"
+      ]
+    },
+    {
+      "page_index": 70,
+      "page_number": 71,
+      "rect": [
+        2592.0,
+        1728.0
+      ],
+      "rotation": 90,
+      "vector_drawings_count": 18040,
+      "path_items_count": 18196,
+      "fonts_count": 3,
+      "text_blocks_count": 1422,
+      "text_lines_count": 267,
+      "candidate_sheet_numbers": [
+        "A-910"
+      ],
+      "sample_lines": [
+        "SINGLE CABLE (TYPE VARIES)",
+        "GYPSUM WALL BOARD AND METAL",
+        "STUD PARTITION (REFER TO",
+        "CONSTRUCTION PLAN)",
+        "FIRE RATED SEALANT"
+      ]
+    }
+  ]
+}

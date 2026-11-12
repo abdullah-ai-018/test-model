@@ -1,0 +1,199 @@
+{
+  "os": {
+    "platform": "Windows-10-10.0.26100-SP0",
+    "system": "Windows",
+    "release": "10",
+    "version": "10.0.26100",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel"
+  },
+  "hardware": {
+    "cpu_count_logical": 8,
+    "cpu_count_physical": 4,
+    "cpu_freq_mhz": 1696.0,
+    "ram_total_gb": 7.88,
+    "ram_available_gb": 1.0,
+    "ram_used_gb": 6.88,
+    "ram_percent": 87.3
+  },
+  "disks": {
+    "C:\\": {
+      "total_gb": 149.64,
+      "used_gb": 133.29,
+      "free_gb": 16.35,
+      "percent": 89.1
+    },
+    "E:\\": {
+      "total_gb": 88.12,
+      "used_gb": 57.66,
+      "free_gb": 30.45,
+      "percent": 65.4
+    }
+  },
+  "nvidia_smi": "nvidia-smi not available or failed: [WinError 2] The system cannot find the file specified",
+  "python": {
+    "version": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "path": [
+      "c:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\.agents\\teamwork\\survey_explorer_1",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\cv2",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\python310.zip",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\DLLs",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\lib",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310",
+      "C:\\Users\\TEC ZONE\\AppData\\Roaming\\Python\\Python310\\site-packages",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\lib",
+      "C:\\Users\\TEC ZONE\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Pythonwin"
+    ]
+  },
+  "packages": {
+    "torch": {
+      "installed": true,
+      "version": "2.1.0+cpu"
+    },
+    "torchvision": {
+      "installed": true,
+      "version": "0.16.0+cpu"
+    },
+    "torchaudio": {
+      "installed": "error",
+      "error": "[WinError 127] The specified procedure could not be found"
+    },
+    "ultralytics": {
+      "installed": true,
+      "version": "8.3.167"
+    },
+    "transformers": {
+      "installed": true,
+      "version": "4.41.2"
+    },
+    "timm": {
+      "installed": true,
+      "version": "1.0.22"
+    },
+    "huggingface_hub": {
+      "installed": true,
+      "version": "0.36.0"
+    },
+    "cv2": {
+      "installed": true,
+      "version": "4.11.0"
+    },
+    "fitz": {
+      "installed": true,
+      "version": "installed (no __version__)"
+    },
+    "pdfplumber": {
+      "installed": true,
+      "version": "0.11.7"
+    },
+    "pypdf": {
+      "installed": true,
+      "version": "6.1.0"
+    },
+    "pypdfium2": {
+      "installed": true,
+      "version": "installed (no __version__)"
+    },
+    "pdf2image": {
+      "installed": false,
+      "version": null
+    },
+    "shapely": {
+      "installed": true,
+      "version": "2.1.1"
+    },
+    "pyclipper": {
+      "installed": true,
+      "version": "1.3.0.post6"
+    },
+    "albumentations": {
+      "installed": false,
+      "version": null
+    },
+    "imgaug": {
+      "installed": false,
+      "version": null
+    },
+    "segmentation_models_pytorch": {
+      "installed": false,
+      "version": null
+    },
+    "monai": {
+      "installed": false,
+      "version": null
+    },
+    "scipy": {
+      "installed": true,
+      "version": "1.15.3"
+    },
+    "sklearn": {
+      "installed": true,
+      "version": "1.7.2"
+    },
+    "skimage": {
+      "installed": true,
+      "version": "0.25.2"
+    },
+    "numpy": {
+      "installed": true,
+      "version": "1.26.4"
+    },
+    "pandas": {
+      "installed": true,
+      "version": "2.2.2"
+    },
+    "PIL": {
+      "installed": true,
+      "version": "10.2.0"
+    },
+    "matplotlib": {
+      "installed": true,
+      "version": "3.10.3"
+    },
+    "seaborn": {
+      "installed": true,
+      "version": "0.13.2"
+    },
+    "onnx": {
+      "installed": false,
+      "version": null
+    },
+    "onnxruntime": {
+      "installed": true,
+      "version": "1.23.0"
+    },
+    "gradio": {
+      "installed": false,
+      "version": null
+    },
+    "streamlit": {
+      "installed": true,
+      "version": "1.48.1"
+    },
+    "flask": {
+      "installed": true,
+      "version": "2.3.3"
+    },
+    "fastapi": {
+      "installed": true,
+      "version": "0.116.0"
+    },
+    "uvicorn": {
+      "installed": true,
+      "version": "0.35.0"
+    }
+  },
+  "torch_details": {
+    "torch_version": "2.1.0+cpu",
+    "cuda_available": false,
+    "device_count": 0,
+    "cuda_version": null,
+    "cudnn_version": null,
+    "current_device": null,
+    "device_name": null,
+    "vram_gb": 0
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "split_name": "train",
+  "version": "1.0",
+  "count": 8,
+  "tiles": [
+    {
+      "sample_id": "mock_plan_00_full",
+      "project_id": "msd_swiss_dwellings",
+      "drawing_id": "mock_plan_00",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_00.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_00.png",
+      "bbox": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "has_walls": true,
+      "wall_pixel_count": 171098,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "mock_plan_01_full",
+      "project_id": "msd_swiss_dwellings",
+      "drawing_id": "mock_plan_01",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_01.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_01.png",
+      "bbox": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "has_walls": true,
+      "wall_pixel_count": 171098,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "mock_plan_04_full",
+      "project_id": "msd_swiss_dwellings",
+      "drawing_id": "mock_plan_04",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_04.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_04.png",
+      "bbox": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "has_walls": true,
+      "wall_pixel_count": 171098,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "mock_plan_05_full",
+      "project_id": "msd_swiss_dwellings",
+      "drawing_id": "mock_plan_05",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_05.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_05.png",
+      "bbox": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "has_walls": true,
+      "wall_pixel_count": 171098,
+      "total_pixel_count": 262144,
+      "class_counts": {},
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "MTA_99TH_A-100",
+      "project_id": "mta_99th_street_train",
+      "drawing_id": "MTA_99TH_A-100",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images_ground_truth\\A-100.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_ground_truth\\A-100.png",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 4000,
+      "total_pixel_count": 262144,
+      "class_counts": {
+        "drywall": 4000
+      },
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "MTA_99TH_A-101",
+      "project_id": "mta_99th_street_train",
+      "drawing_id": "MTA_99TH_A-101",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images_ground_truth\\A-101.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_ground_truth\\A-101.png",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 28000,
+      "total_pixel_count": 262144,
+      "class_counts": {
+        "drywall": 28000
+      },
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "MTA_99TH_A-102",
+      "project_id": "mta_99th_street_train",
+      "drawing_id": "MTA_99TH_A-102",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images_ground_truth\\A-102.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_ground_truth\\A-102.png",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 71000,
+      "total_pixel_count": 262144,
+      "class_counts": {
+        "drywall": 71000
+      },
+      "is_pseudo_label": false,
+      "quarantine": false
+    },
+    {
+      "sample_id": "MTA_99TH_A-103",
+      "project_id": "mta_99th_street_train",
+      "drawing_id": "MTA_99TH_A-103",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images_ground_truth\\A-103.png",
+      "mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_ground_truth\\A-103.png",
+      "bbox": [
+        0,
+        0,
+        5400,
+        3600
+      ],
+      "width": 5400,
+      "height": 3600,
+      "has_walls": true,
+      "wall_pixel_count": 67000,
+      "total_pixel_count": 262144,
+      "class_counts": {
+        "drywall": 67000
+      },
+      "is_pseudo_label": false,
+      "quarantine": false
+    }
+  ]
+}

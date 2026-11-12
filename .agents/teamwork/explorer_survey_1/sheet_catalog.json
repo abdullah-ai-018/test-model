@@ -1,0 +1,570 @@
+[
+  {
+    "page_index": 0,
+    "page_num": 1,
+    "sheet_num": "COVER / TITLE",
+    "sheet_title": "ARCHITECTURAL INTERIOR SET - COVER",
+    "drawings_count": 13647,
+    "text_chars": 269
+  },
+  {
+    "page_index": 1,
+    "page_num": 2,
+    "sheet_num": "G-001",
+    "sheet_title": "MASTER LEGENDS",
+    "drawings_count": 10828,
+    "text_chars": 17058
+  },
+  {
+    "page_index": 2,
+    "page_num": 3,
+    "sheet_num": "TC-902",
+    "sheet_title": "TELECOMMUNICATIONS COMPONENT DETAILS II",
+    "drawings_count": 4029,
+    "text_chars": 11322
+  },
+  {
+    "page_index": 3,
+    "page_num": 4,
+    "sheet_num": "G-003",
+    "sheet_title": "NOTES & SPECIFICATIONS",
+    "drawings_count": 926,
+    "text_chars": 30031
+  },
+  {
+    "page_index": 4,
+    "page_num": 5,
+    "sheet_num": "G-004",
+    "sheet_title": "FEMA FLOOD MAPS",
+    "drawings_count": 205,
+    "text_chars": 1332
+  },
+  {
+    "page_index": 5,
+    "page_num": 6,
+    "sheet_num": "G-005",
+    "sheet_title": "UTILITY SURVEY DRAWINGS",
+    "drawings_count": 195,
+    "text_chars": 1250
+  },
+  {
+    "page_index": 6,
+    "page_num": 7,
+    "sheet_num": "G-006",
+    "sheet_title": "SURVEY",
+    "drawings_count": 190,
+    "text_chars": 1214
+  },
+  {
+    "page_index": 7,
+    "page_num": 8,
+    "sheet_num": "LS-100",
+    "sheet_title": "CELLAR LIFE SAFETY PLAN",
+    "drawings_count": 10178,
+    "text_chars": 8962
+  },
+  {
+    "page_index": 8,
+    "page_num": 9,
+    "sheet_num": "LS-101",
+    "sheet_title": "FIRST FLOOR LIFE SAFETY PLAN",
+    "drawings_count": 29162,
+    "text_chars": 11301
+  },
+  {
+    "page_index": 9,
+    "page_num": 10,
+    "sheet_num": "LS-102",
+    "sheet_title": "SECOND FLOOR LIFE SAFETY PLAN",
+    "drawings_count": 135967,
+    "text_chars": 10000
+  },
+  {
+    "page_index": 10,
+    "page_num": 11,
+    "sheet_num": "LS-103",
+    "sheet_title": "THIRD FLOOR LIFE SAFETY",
+    "drawings_count": 118496,
+    "text_chars": 10205
+  },
+  {
+    "page_index": 11,
+    "page_num": 12,
+    "sheet_num": "LS-104",
+    "sheet_title": "FOURTH FLOOR LIFE SAFETY",
+    "drawings_count": 110560,
+    "text_chars": 10048
+  },
+  {
+    "page_index": 12,
+    "page_num": 13,
+    "sheet_num": "LS-105",
+    "sheet_title": "ROOF LIFE SAFETY PLAN",
+    "drawings_count": 10754,
+    "text_chars": 8471
+  },
+  {
+    "page_index": 13,
+    "page_num": 14,
+    "sheet_num": "A-100",
+    "sheet_title": "CELLAR CONSTRUCTION PLAN",
+    "drawings_count": 10788,
+    "text_chars": 12217
+  },
+  {
+    "page_index": 14,
+    "page_num": 15,
+    "sheet_num": "A-101",
+    "sheet_title": "FIRST FLOOR CONSTRUCTION PLAN",
+    "drawings_count": 21458,
+    "text_chars": 12523
+  },
+  {
+    "page_index": 15,
+    "page_num": 16,
+    "sheet_num": "A-102",
+    "sheet_title": "SECOND FLOOR CONSTRUCTION PLAN",
+    "drawings_count": 89450,
+    "text_chars": 13006
+  },
+  {
+    "page_index": 16,
+    "page_num": 17,
+    "sheet_num": "A-103",
+    "sheet_title": "THIRD FLOOR CONSTRUCTION PLAN",
+    "drawings_count": 47167,
+    "text_chars": 12672
+  },
+  {
+    "page_index": 17,
+    "page_num": 18,
+    "sheet_num": "A-104",
+    "sheet_title": "FOURTH FLOOR CONSTRUCTION PLAN",
+    "drawings_count": 50419,
+    "text_chars": 12903
+  },
+  {
+    "page_index": 18,
+    "page_num": 19,
+    "sheet_num": "A-105",
+    "sheet_title": "ROOF CONSTRUCTION PLAN",
+    "drawings_count": 8672,
+    "text_chars": 12010
+  },
+  {
+    "page_index": 19,
+    "page_num": 20,
+    "sheet_num": "A-200",
+    "sheet_title": "CELLAR REFLECTED CEILING PLAN",
+    "drawings_count": 10995,
+    "text_chars": 9520
+  },
+  {
+    "page_index": 20,
+    "page_num": 21,
+    "sheet_num": "A-201",
+    "sheet_title": "FIRST FLOOR REFLECTED CEILING PLAN",
+    "drawings_count": 38025,
+    "text_chars": 10179
+  },
+  {
+    "page_index": 21,
+    "page_num": 22,
+    "sheet_num": "A-202",
+    "sheet_title": "SECOND FLOOR REFLECTED CEILING PLAN",
+    "drawings_count": 43143,
+    "text_chars": 10546
+  },
+  {
+    "page_index": 22,
+    "page_num": 23,
+    "sheet_num": "A-203",
+    "sheet_title": "THIRD FLOOR REFLECTED CEILING PLAN",
+    "drawings_count": 67418,
+    "text_chars": 10498
+  },
+  {
+    "page_index": 23,
+    "page_num": 24,
+    "sheet_num": "A-204",
+    "sheet_title": "FOURTH FLOOR REFLECTED CEILING PLAN",
+    "drawings_count": 618536,
+    "text_chars": 10665
+  },
+  {
+    "page_index": 24,
+    "page_num": 25,
+    "sheet_num": "A-300",
+    "sheet_title": "CELLAR POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 9381,
+    "text_chars": 10920
+  },
+  {
+    "page_index": 25,
+    "page_num": 26,
+    "sheet_num": "A-301",
+    "sheet_title": "FIRST FLOOR POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 19008,
+    "text_chars": 11264
+  },
+  {
+    "page_index": 26,
+    "page_num": 27,
+    "sheet_num": "A-302",
+    "sheet_title": "SECOND FLOOR POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 120874,
+    "text_chars": 12775
+  },
+  {
+    "page_index": 27,
+    "page_num": 28,
+    "sheet_num": "A-303",
+    "sheet_title": "THIRD FLOOR POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 84502,
+    "text_chars": 13134
+  },
+  {
+    "page_index": 28,
+    "page_num": 29,
+    "sheet_num": "A-304",
+    "sheet_title": "FOURTH FLOOR POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 81424,
+    "text_chars": 13460
+  },
+  {
+    "page_index": 29,
+    "page_num": 30,
+    "sheet_num": "A-305",
+    "sheet_title": "ROOF POWER & COMMUNICATIONS PLAN",
+    "drawings_count": 8044,
+    "text_chars": 10707
+  },
+  {
+    "page_index": 30,
+    "page_num": 31,
+    "sheet_num": "B-369",
+    "sheet_title": "Unknown",
+    "drawings_count": 2148,
+    "text_chars": 12013
+  },
+  {
+    "page_index": 31,
+    "page_num": 32,
+    "sheet_num": "A-401",
+    "sheet_title": "FIRST FLOOR FINISH PLAN",
+    "drawings_count": 15894,
+    "text_chars": 6936
+  },
+  {
+    "page_index": 32,
+    "page_num": 33,
+    "sheet_num": "A-402",
+    "sheet_title": "SECOND FLOOR FINISH PLAN",
+    "drawings_count": 83023,
+    "text_chars": 7025
+  },
+  {
+    "page_index": 33,
+    "page_num": 34,
+    "sheet_num": "A-403",
+    "sheet_title": "THIRD FLOOR FINISH PLAN",
+    "drawings_count": 17334,
+    "text_chars": 7294
+  },
+  {
+    "page_index": 34,
+    "page_num": 35,
+    "sheet_num": "A-404",
+    "sheet_title": "FOURTH FLOOR FINISH PLAN",
+    "drawings_count": 17321,
+    "text_chars": 7363
+  },
+  {
+    "page_index": 35,
+    "page_num": 36,
+    "sheet_num": "A-405",
+    "sheet_title": "FINISH TRANSITION",
+    "drawings_count": 3878,
+    "text_chars": 4158
+  },
+  {
+    "page_index": 36,
+    "page_num": 37,
+    "sheet_num": "A-406",
+    "sheet_title": "FINISH LEGEND SHEET I",
+    "drawings_count": 1041,
+    "text_chars": 18931
+  },
+  {
+    "page_index": 37,
+    "page_num": 38,
+    "sheet_num": "A-407",
+    "sheet_title": "FINISH LEGEND SHEET II",
+    "drawings_count": 564,
+    "text_chars": 8804
+  },
+  {
+    "page_index": 38,
+    "page_num": 39,
+    "sheet_num": "A-500",
+    "sheet_title": "Custom Title",
+    "drawings_count": 7638,
+    "text_chars": 1722
+  },
+  {
+    "page_index": 39,
+    "page_num": 40,
+    "sheet_num": "A-501",
+    "sheet_title": "FIRST FLOOR FURNITURE PLAN",
+    "drawings_count": 18903,
+    "text_chars": 2287
+  },
+  {
+    "page_index": 40,
+    "page_num": 41,
+    "sheet_num": "A-502",
+    "sheet_title": "SECOND FLOOR FURNITURE PLAN",
+    "drawings_count": 118793,
+    "text_chars": 2215
+  },
+  {
+    "page_index": 41,
+    "page_num": 42,
+    "sheet_num": "A-503",
+    "sheet_title": "THIRD FLOOR FURNITURE PLAN",
+    "drawings_count": 79975,
+    "text_chars": 2492
+  },
+  {
+    "page_index": 42,
+    "page_num": 43,
+    "sheet_num": "A-504",
+    "sheet_title": "FOURTH FLOOR FURNITURE PLAN",
+    "drawings_count": 71104,
+    "text_chars": 2481
+  },
+  {
+    "page_index": 43,
+    "page_num": 44,
+    "sheet_num": "A-505",
+    "sheet_title": "Custom Title",
+    "drawings_count": 6791,
+    "text_chars": 1555
+  },
+  {
+    "page_index": 44,
+    "page_num": 45,
+    "sheet_num": "A-601",
+    "sheet_title": "DOOR SCHEDULE",
+    "drawings_count": 4108,
+    "text_chars": 12448
+  },
+  {
+    "page_index": 45,
+    "page_num": 46,
+    "sheet_num": "A-602",
+    "sheet_title": "DOOR DETAILS",
+    "drawings_count": 10268,
+    "text_chars": 2798
+  },
+  {
+    "page_index": 46,
+    "page_num": 47,
+    "sheet_num": "A-701",
+    "sheet_title": "ELEVATIONS - PANTRYS",
+    "drawings_count": 40127,
+    "text_chars": 5014
+  },
+  {
+    "page_index": 47,
+    "page_num": 48,
+    "sheet_num": "A-702",
+    "sheet_title": "ELEVATIONS - RESTROOMS SHEET I & LACTATION RM",
+    "drawings_count": 28683,
+    "text_chars": 4509
+  },
+  {
+    "page_index": 48,
+    "page_num": 49,
+    "sheet_num": "A-703",
+    "sheet_title": "ELEVATIONS - RESTROOMS SHEET II",
+    "drawings_count": 97463,
+    "text_chars": 4559
+  },
+  {
+    "page_index": 49,
+    "page_num": 50,
+    "sheet_num": "A-704",
+    "sheet_title": "ELEVATIONS - RESTROOMS SHEET III",
+    "drawings_count": 28696,
+    "text_chars": 3857
+  },
+  {
+    "page_index": 50,
+    "page_num": 51,
+    "sheet_num": "A-705",
+    "sheet_title": "ELEVATIONS - RESTROOMS SHEET IV",
+    "drawings_count": 26616,
+    "text_chars": 3771
+  },
+  {
+    "page_index": 51,
+    "page_num": 52,
+    "sheet_num": "A-706",
+    "sheet_title": "ELEVATIONS - TYP. OFFICE, CONFERENCE ROOMS, & ENTRY LOBBY",
+    "drawings_count": 25420,
+    "text_chars": 4204
+  },
+  {
+    "page_index": 52,
+    "page_num": 53,
+    "sheet_num": "A-707",
+    "sheet_title": "ELEVATIONS - STORM RM DESK & SAFETY MEETING ROOM",
+    "drawings_count": 5671,
+    "text_chars": 2719
+  },
+  {
+    "page_index": 53,
+    "page_num": 54,
+    "sheet_num": "A-708",
+    "sheet_title": "ELEVATIONS - WALLS AT WORKSTATIONS",
+    "drawings_count": 12506,
+    "text_chars": 2888
+  },
+  {
+    "page_index": 54,
+    "page_num": 55,
+    "sheet_num": "A-709",
+    "sheet_title": "ELEVATIONS - ENTRY VESTIBULES",
+    "drawings_count": 1434,
+    "text_chars": 2290
+  },
+  {
+    "page_index": 55,
+    "page_num": 56,
+    "sheet_num": "A-710",
+    "sheet_title": "ELEVATIONS - WALLS AT WORKSTATIONS 4TH FLOOR",
+    "drawings_count": 2663,
+    "text_chars": 1954
+  },
+  {
+    "page_index": 56,
+    "page_num": 57,
+    "sheet_num": "A-800",
+    "sheet_title": "RAMP PLANS SECTION & DETAILS",
+    "drawings_count": 14517,
+    "text_chars": 3683
+  },
+  {
+    "page_index": 57,
+    "page_num": 58,
+    "sheet_num": "A-801",
+    "sheet_title": "STAIR A PLANS & SECTIONS",
+    "drawings_count": 33795,
+    "text_chars": 7153
+  },
+  {
+    "page_index": 58,
+    "page_num": 59,
+    "sheet_num": "A-802",
+    "sheet_title": "STAIR B PLANS & SECTIONS",
+    "drawings_count": 31030,
+    "text_chars": 5424
+  },
+  {
+    "page_index": 59,
+    "page_num": 60,
+    "sheet_num": "A-803",
+    "sheet_title": "STAIR TYP. DETAILS I",
+    "drawings_count": 20414,
+    "text_chars": 5327
+  },
+  {
+    "page_index": 60,
+    "page_num": 61,
+    "sheet_num": "A-804",
+    "sheet_title": "STAIR TYP. DETAILS II",
+    "drawings_count": 8297,
+    "text_chars": 3051
+  },
+  {
+    "page_index": 61,
+    "page_num": 62,
+    "sheet_num": "A-805",
+    "sheet_title": "TYP. MILLWORK DETAILS I",
+    "drawings_count": 35948,
+    "text_chars": 9294
+  },
+  {
+    "page_index": 62,
+    "page_num": 63,
+    "sheet_num": "A-900",
+    "sheet_title": "PARTITION TYPES SHEET I",
+    "drawings_count": 14734,
+    "text_chars": 8540
+  },
+  {
+    "page_index": 63,
+    "page_num": 64,
+    "sheet_num": "A-901",
+    "sheet_title": "PARTITION TYPES SHEET II",
+    "drawings_count": 25778,
+    "text_chars": 7508
+  },
+  {
+    "page_index": 64,
+    "page_num": 65,
+    "sheet_num": "A-902",
+    "sheet_title": "WALL DETAILS I",
+    "drawings_count": 12421,
+    "text_chars": 2054
+  },
+  {
+    "page_index": 65,
+    "page_num": 66,
+    "sheet_num": "A-903",
+    "sheet_title": "SIGNAGE",
+    "drawings_count": 5405,
+    "text_chars": 1671
+  },
+  {
+    "page_index": 66,
+    "page_num": 67,
+    "sheet_num": "A-905",
+    "sheet_title": "CEILING DETAILS I",
+    "drawings_count": 9438,
+    "text_chars": 8198
+  },
+  {
+    "page_index": 67,
+    "page_num": 68,
+    "sheet_num": "A-906",
+    "sheet_title": "CEILING DETAILS II",
+    "drawings_count": 9302,
+    "text_chars": 5684
+  },
+  {
+    "page_index": 68,
+    "page_num": 69,
+    "sheet_num": "A-907",
+    "sheet_title": "CLERESTORY DETAILS",
+    "drawings_count": 3392,
+    "text_chars": 2306
+  },
+  {
+    "page_index": 69,
+    "page_num": 70,
+    "sheet_num": "A-908",
+    "sheet_title": "ENTRY DETAILS",
+    "drawings_count": 234,
+    "text_chars": 1339
+  },
+  {
+    "page_index": 70,
+    "page_num": 71,
+    "sheet_num": "A-910",
+    "sheet_title": "FIRESTOPPING DETAILS",
+    "drawings_count": 18040,
+    "text_chars": 6174
+  }
+]

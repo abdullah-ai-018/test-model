@@ -1,0 +1,258 @@
+{
+  "total_tests": 24,
+  "passed_tests": 23,
+  "failed_tests": 1,
+  "all_passed": false,
+  "elapsed_seconds": 0.61,
+  "results": [
+    {
+      "category": "Downloader",
+      "test_name": "test_disk_safety_negative_required_gb",
+      "passed": true,
+      "details": {},
+      "notes": "Correctly raised ValueError: required_free_gb must be non-negative"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_disk_safety_negative_required_gb_alias",
+      "passed": true,
+      "details": {},
+      "notes": "Correctly raised ValueError: required_free_gb must be non-negative"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_disk_safety_exceeding_available",
+      "passed": true,
+      "details": {
+        "is_safe": false,
+        "free_gb": 8.38,
+        "msg": "REJECTED: WARNING: Operation requires 50000000.00 GB, which exceeds the 10.0 GB mandatory user notification threshold. Current free space: 8.38 GB. (Insufficient headroom under 5.0 GB safety margin)."
+      },
+      "notes": "Headroom rejection verified: is_safe=False, msg='REJECTED: WARNING: Operation requires 50000000.00 GB, which ...'"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_large_download_10gb_threshold",
+      "passed": true,
+      "details": {
+        "passed_strict": true,
+        "passed_allow": true,
+        "free_gb": 8.38
+      },
+      "notes": "10 GB threshold enforced: strict rejected=True, allow_passed=False"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_sha256_mismatch_corrupt_part_deleted",
+      "passed": false,
+      "details": {},
+      "notes": "BUG DETECTED: ChecksumMismatchError swallowed by generic 'except Exception' and raised as RuntimeError. Corrupt .part was deleted=True, dest not promoted=True."
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_pre_existing_corrupt_file_cache_rejection",
+      "passed": true,
+      "details": {
+        "valid_size_mismatch": false,
+        "valid_hash_mismatch": false
+      },
+      "notes": "Pre-existing corrupt file rejected on size (False) and hash (False)"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_http_fatal_403_immediate_halt",
+      "passed": true,
+      "details": {},
+      "notes": "HTTP 403 halted immediately: attempts=1, part_exists=False"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_http_transient_500_exponential_backoff",
+      "passed": true,
+      "details": {},
+      "notes": "Retried 3 times with backoffs [1.13, 2.12], .part deleted=True"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_network_disconnect_socket_timeout",
+      "passed": true,
+      "details": {},
+      "notes": "Handled socket timeout after 2 attempts, part cleaned up=True"
+    },
+    {
+      "category": "Downloader",
+      "test_name": "test_resumable_transfer_http_range_206",
+      "passed": true,
+      "details": {},
+      "notes": "Resumed from byte 20, transferred=62 bytes, verified SHA-256 match"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_pathological_bowtie_polygon_repair",
+      "passed": true,
+      "details": {
+        "num_polygons": 2,
+        "wall_pixels": 109044
+      },
+      "notes": "Self-intersecting bowtie repaired into 2 valid polygons, rasterized to 109044 px"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_zero_area_slivers_and_degenerate_lines",
+      "passed": true,
+      "details": {
+        "collinear_count": 0,
+        "sliver_count": 0
+      },
+      "notes": "Degenerate polygons cleanly filtered: collinear=0, sliver=0"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_inverted_clockwise_polygon",
+      "passed": true,
+      "details": {
+        "num_polygons": 1,
+        "wall_pixels": 217156
+      },
+      "notes": "Clockwise polygon handled cleanly: 1 poly, 217156 px"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_nan_inf_coordinates_rejection",
+      "passed": true,
+      "details": {
+        "nan_polys": 0,
+        "inf_polys": 0,
+        "filtered_pts": 3
+      },
+      "notes": "NaN/Inf WKT inputs safely rejected without crash (polys=0, valid pts retained=3)"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_nested_donut_holes_evacuation",
+      "passed": true,
+      "details": {
+        "interiors": 2,
+        "h1_val": 0,
+        "h2_val": 0,
+        "ext_val": 1
+      },
+      "notes": "2 interior donut holes evacuated to 0: hole1=0, hole2=0, exterior=1"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_empty_and_malformed_inputs",
+      "passed": true,
+      "details": {
+        "tested_count": 11
+      },
+      "notes": "All 11 empty/malformed inputs returned [] without crash"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_extreme_bounds_and_no_zero_division",
+      "passed": true,
+      "details": {
+        "scale_sp": 511000000.0,
+        "extreme_pt": [
+          256,
+          256
+        ]
+      },
+      "notes": "Division-by-zero protected (scale=511000000.00), extreme coords clamped into [0, 511]"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_filter_blank_drawings_density_threshold",
+      "passed": true,
+      "details": {
+        "total_prepared": 4,
+        "has_blanks": false
+      },
+      "notes": "filter_blank_drawings eliminated 100% of blank plans: 4 wall drawings kept, 0 blank kept"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_preparer_drawing_level_hard_negative_capping",
+      "passed": true,
+      "details": {
+        "total_drawings": 4,
+        "blank_drawings": 0,
+        "drawing_hn_ratio": 0.0
+      },
+      "notes": "DatasetPreparer drawing-level HN cap when filter_blank_drawings=False: blanks=0/4 (0.0%, cap=15%)"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_hard_negatives_capped_against_flooding",
+      "passed": true,
+      "details": {
+        "num_wall_tiles": 4,
+        "num_hn_retained": 1,
+        "total_retained": 5,
+        "ratio": 0.2
+      },
+      "notes": "From 96 candidate hard negatives, tiler strictly capped retention to 1 tiles (ratio=20.0%)"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_pure_blank_white_drawings_100pct_discarded",
+      "passed": true,
+      "details": {
+        "retained_tiles": 0
+      },
+      "notes": "Pure blank white floor plans are 100% discarded: retained=0 tiles"
+    },
+    {
+      "category": "Preparer",
+      "test_name": "test_multiclass_mask_palette_conformity",
+      "passed": true,
+      "details": {
+        "mode": "P",
+        "unique_vals": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      "notes": "Mode 'P' indexed PNG validated: classes=[0, 1, 2, 3], palette matching=True"
+    },
+    {
+      "category": "QC",
+      "test_name": "test_qc_resolution_mismatch_auto_resize",
+      "passed": true,
+      "details": {
+        "shape": [
+          296,
+          768,
+          3
+        ],
+        "expected": [
+          296,
+          768,
+          3
+        ]
+      },
+      "notes": "Resolution mismatch gracefully unified: resulting triplet shape=(296, 768, 3)"
+    },
+    {
+      "category": "QC",
+      "test_name": "test_qc_overlay_alpha_blending",
+      "passed": true,
+      "details": {
+        "bg_sample": [
+          240,
+          240,
+          240
+        ],
+        "wall_sample": [
+          177,
+          224,
+          144
+        ]
+      },
+      "notes": "Translucent overlay verified: background untouched=True, wall blended=[177, 224, 144]"
+    }
+  ]
+}

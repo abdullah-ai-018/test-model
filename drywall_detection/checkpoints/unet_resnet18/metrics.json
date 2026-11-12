@@ -1,0 +1,77 @@
+{
+  "pixel_accuracy": 0.1625,
+  "mean_accuracy": 0.5,
+  "mean_iou_present": 0.0813,
+  "mean_iou_all": 0.5406,
+  "wall_mean_iou_present": 0.1625,
+  "wall_mean_iou_all": 0.7208,
+  "per_class": {
+    "Background": {
+      "iou": 0.0,
+      "dice": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "boundary_iou": 0.0,
+      "gt_pixels": 439088,
+      "pred_pixels": 0,
+      "present_in_gt": true
+    },
+    "Drywall": {
+      "iou": 1.0,
+      "dice": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "boundary_iou": 1.0,
+      "gt_pixels": 0,
+      "pred_pixels": 0,
+      "present_in_gt": false
+    },
+    "Non-Drywall": {
+      "iou": 1.0,
+      "dice": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "boundary_iou": 1.0,
+      "gt_pixels": 0,
+      "pred_pixels": 0,
+      "present_in_gt": false
+    },
+    "Uncertain": {
+      "iou": 0.1625,
+      "dice": 0.2796,
+      "precision": 0.1625,
+      "recall": 1.0,
+      "boundary_iou": 0.0,
+      "gt_pixels": 85200,
+      "pred_pixels": 524288,
+      "present_in_gt": true
+    }
+  },
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      0,
+      439088
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      85200
+    ]
+  ],
+  "loss": 0.9610907435417175
+}

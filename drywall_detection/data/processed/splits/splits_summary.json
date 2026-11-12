@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "seed": 42,
+  "isolation_status": "VERIFIED_ZERO_LEAKAGE",
+  "counts": {
+    "train_samples": 8,
+    "val_samples": 2,
+    "test_samples": 55,
+    "quarantine_samples": 5
+  },
+  "mta_99th_walls": {
+    "train_walls (A-100..A-103)": 170,
+    "test_walls (A-104)": 69,
+    "total_verified_drywall_walls": 239
+  },
+  "projects": {
+    "train": [
+      "mta_99th_street_train",
+      "msd_swiss_dwellings"
+    ],
+    "val": [
+      "cubicasa5k_benchmark"
+    ],
+    "test": [
+      "mta_99th_street_test_heldout",
+      "spark_lake_grove_permit_set"
+    ],
+    "quarantine": [
+      "mta_99th_street_quarantine"
+    ]
+  }
+}

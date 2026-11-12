@@ -1,0 +1,13 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.2392,
+    "val_loss": 0.9611,
+    "val_miou": 0.5406,
+    "val_wall_iou": 0.1625,
+    "val_pixel_accuracy": 0.1625,
+    "learning_rate": 0.0001,
+    "epoch_duration_sec": 316.75,
+    "timestamp": "2026-11-08T19:34:41Z"
+  }
+]

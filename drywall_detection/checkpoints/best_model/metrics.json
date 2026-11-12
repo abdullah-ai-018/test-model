@@ -1,0 +1,81 @@
+{
+  "num_classes": 4,
+  "pixel_accuracy": 0.6167,
+  "mean_accuracy": 0.6119,
+  "mean_iou_present": 0.1639,
+  "mean_iou_all": 0.1639,
+  "wall_mean_iou_present": 0.0442,
+  "wall_mean_iou_all": 0.0147,
+  "per_class": {
+    "Background": {
+      "iou": 0.6114,
+      "dice": 0.7589,
+      "precision": 0.9857,
+      "recall": 0.6169,
+      "boundary_iou": 0.0462,
+      "gt_pixels": 255772,
+      "pred_pixels": 160087,
+      "present_in_gt": true
+    },
+    "Drywall": {
+      "iou": 0.0442,
+      "dice": 0.0847,
+      "precision": 0.0455,
+      "recall": 0.607,
+      "boundary_iou": 0.0369,
+      "gt_pixels": 6372,
+      "pred_pixels": 84923,
+      "present_in_gt": true
+    },
+    "Non-Drywall": {
+      "iou": 0.0,
+      "dice": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "boundary_iou": 0.0,
+      "gt_pixels": 0,
+      "pred_pixels": 14389,
+      "present_in_gt": false
+    },
+    "Uncertain": {
+      "iou": 0.0,
+      "dice": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "boundary_iou": 0.0,
+      "gt_pixels": 0,
+      "pred_pixels": 2745,
+      "present_in_gt": false
+    }
+  },
+  "confusion_matrix": [
+    [
+      157790,
+      81055,
+      14293,
+      2634
+    ],
+    [
+      2297,
+      3868,
+      96,
+      111
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "test_samples": 1,
+  "evaluated_tiles": 1,
+  "model_name": "drywall_segformer_b0",
+  "architecture": "segformer"
+}

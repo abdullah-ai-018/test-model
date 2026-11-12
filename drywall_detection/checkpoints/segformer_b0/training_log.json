@@ -1,0 +1,35 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.0295,
+    "val_loss": 1.027,
+    "val_miou": 0.1922,
+    "val_wall_iou": 0.0307,
+    "val_pixel_accuracy": 0.7263,
+    "learning_rate": 0.0001,
+    "epoch_duration_sec": 87.41,
+    "timestamp": "2026-11-08T19:27:30Z"
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.925,
+    "val_loss": 1.0323,
+    "val_miou": 0.1936,
+    "val_wall_iou": 0.0541,
+    "val_pixel_accuracy": 0.69,
+    "learning_rate": 7.525e-05,
+    "epoch_duration_sec": 50.56,
+    "timestamp": "2026-11-08T19:28:21Z"
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.9329,
+    "val_loss": 1.027,
+    "val_miou": 0.205,
+    "val_wall_iou": 0.1067,
+    "val_pixel_accuracy": 0.6795,
+    "learning_rate": 2.5750000000000013e-05,
+    "epoch_duration_sec": 46.91,
+    "timestamp": "2026-11-08T19:29:08Z"
+  }
+]

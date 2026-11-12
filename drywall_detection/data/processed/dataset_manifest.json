@@ -1,0 +1,138 @@
+{
+  "version": "1.0",
+  "total_prepared_drawings": 6,
+  "target_resolution": [
+    1024,
+    1024
+  ],
+  "default_wall_class": 3,
+  "manifest_files": {
+    "train": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\splits\\train.json",
+    "val": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\splits\\val.json",
+    "test": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\splits\\test.json",
+    "quarantine": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\splits\\quarantine.json",
+    "summary": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\splits\\splits_summary.json"
+  },
+  "drawings": [
+    {
+      "drawing_id": "mock_plan_00",
+      "project_id": "site_00",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_00.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_00.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_00.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    },
+    {
+      "drawing_id": "mock_plan_01",
+      "project_id": "site_00",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_01.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_01.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_01.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    },
+    {
+      "drawing_id": "mock_plan_02",
+      "project_id": "site_01",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_02.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_02.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_02.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    },
+    {
+      "drawing_id": "mock_plan_03",
+      "project_id": "site_01",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_03.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_03.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_03.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    },
+    {
+      "drawing_id": "mock_plan_04",
+      "project_id": "site_02",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_04.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_04.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_04.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    },
+    {
+      "drawing_id": "mock_plan_05",
+      "project_id": "site_02",
+      "image_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\images\\mock_plan_05.png",
+      "binary_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_binary\\mock_plan_05.png",
+      "multiclass_mask_path": "C:\\Users\\TEC ZONE\\OneDrive\\Desktop\\test-model\\drywall_detection\\data\\processed\\masks_multiclass\\mock_plan_05.png",
+      "image_shape": [
+        1024,
+        1024,
+        3
+      ],
+      "mask_shape": [
+        1024,
+        1024
+      ],
+      "wall_pixel_count": 171098,
+      "wall_coverage_pct": 16.317,
+      "is_hard_negative": false,
+      "metadata": {}
+    }
+  ]
+}

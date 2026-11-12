@@ -1,0 +1,277 @@
+{
+  "total_tests": 30,
+  "passed_tests": 29,
+  "failed_tests": 1,
+  "pass_rate": 96.67,
+  "results": [
+    {
+      "test_id": "EXT-01",
+      "category": "Extreme Distribution",
+      "description": "1 giant project (90%) + 10 small projects: all splits populated with zero leakage",
+      "passed": true,
+      "details": {
+        "train_samples": 900,
+        "val_samples": 50,
+        "test_samples": 50,
+        "train_projects": 1,
+        "val_projects": 5,
+        "test_projects": 5
+      }
+    },
+    {
+      "test_id": "EXT-02",
+      "category": "Extreme Distribution",
+      "description": "1 giant project (99.8%) + 2 tiny projects (1 sample each): all splits populated, zero leakage",
+      "passed": true,
+      "details": {
+        "train_count": 998,
+        "val_count": 1,
+        "test_count": 1
+      }
+    },
+    {
+      "test_id": "EXT-03",
+      "category": "Extreme Distribution",
+      "description": "Empty drawings with zero wall pixels handled without division by zero in stats",
+      "passed": true,
+      "details": {
+        "stats": {
+          "train": 0.0,
+          "val": 0.763,
+          "test": 0.381
+        }
+      }
+    },
+    {
+      "test_id": "INS-01",
+      "category": "Insufficient Projects",
+      "description": "Empty sample list correctly raised InsufficientGroupsError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "INS-02",
+      "category": "Insufficient Projects",
+      "description": "1 project with fallback disabled raised InsufficientGroupsError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "INS-03",
+      "category": "Insufficient Projects",
+      "description": "Single project fallback triggers loud SplitLeakageError (zero project overlap enforced)",
+      "passed": true,
+      "details": {
+        "caught_expected_leakage_error": "Train/Val project leakage detected: {'single_proj'}"
+      }
+    },
+    {
+      "test_id": "INS-04",
+      "category": "Insufficient Projects",
+      "description": "2 projects no fallback raised InsufficientGroupsError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "INS-05",
+      "category": "Insufficient Projects",
+      "description": "2 projects fallback loudly rejected by assert_zero_leakage",
+      "passed": true,
+      "details": {
+        "error": "Train/Val project leakage detected: {'proj_A'}"
+      }
+    },
+    {
+      "test_id": "LEAK-01",
+      "category": "Leakage Detection",
+      "description": "assert_zero_leakage successfully detected and rejected shared drawing ID",
+      "passed": true,
+      "details": {
+        "error": "Val/Test drawing leakage detected: {'SHARED_DRAWING'}"
+      }
+    },
+    {
+      "test_id": "LEAK-02",
+      "category": "Leakage Detection",
+      "description": "assert_zero_leakage successfully detected and rejected shared image path",
+      "passed": true,
+      "details": {
+        "error": "Direct image file path overlap detected between splits: {'C:\\\\Users\\\\TEC ZONE\\\\AppData\\\\Local\\\\Temp\\\\tmpg0acdf70.png'}"
+      }
+    },
+    {
+      "test_id": "LEAK-03",
+      "category": "Leakage Detection",
+      "description": "assert_zero_leakage successfully detected and rejected shared mask path",
+      "passed": true,
+      "details": {
+        "error": "Direct mask file path overlap detected between splits: {'C:\\\\Users\\\\TEC ZONE\\\\AppData\\\\Local\\\\Temp\\\\tmp7g5jkbrv.png'}"
+      }
+    },
+    {
+      "test_id": "LEAK-04",
+      "category": "Leakage Detection",
+      "description": "Case-mismatched non-existent path on Windows bypassed assert_zero_leakage (Finding: Path.resolve does not case-fold uncreated paths)",
+      "passed": true,
+      "details": {
+        "finding": "Case-sensitive set intersection permits case-mismatched uncreated paths on Windows NTFS"
+      }
+    },
+    {
+      "test_id": "SCHEMA-01",
+      "category": "Schema Corruption",
+      "description": "Ratios summing to 1.1 correctly raised InvalidSplitRatioError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "SCHEMA-02",
+      "category": "Schema Corruption",
+      "description": "Negative ratio correctly raised InvalidSplitRatioError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "SCHEMA-03",
+      "category": "Schema Corruption",
+      "description": "Zero ratio correctly raised InvalidSplitRatioError",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "SCHEMA-04",
+      "category": "Schema Corruption",
+      "description": "2-ratio tuple raised exception as expected",
+      "passed": true,
+      "details": {
+        "exception": "IndexError"
+      }
+    },
+    {
+      "test_id": "SCHEMA-05",
+      "category": "Schema Corruption",
+      "description": "4-ratio tuple handled or raised exception",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "SCHEMA-06",
+      "category": "Schema Corruption",
+      "description": "NaN in split_ratios bypassed validation (Finding: float('nan') bypasses abs(sum-1)>1e-5)",
+      "passed": false,
+      "details": {
+        "finding": "NaN bypassed __init__ validation"
+      }
+    },
+    {
+      "test_id": "SCHEMA-07",
+      "category": "Schema Corruption",
+      "description": "SampleRecord.from_dict({}) handled missing keys gracefully",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "SCHEMA-08",
+      "category": "Schema Corruption",
+      "description": "SampleRecord.from_dict robust against string bbox and numbers",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "DET-01",
+      "category": "Determinism",
+      "description": "Identical seed=42 across 10 runs produced bit-for-bit identical partitions and verification hash",
+      "passed": true,
+      "details": {
+        "unique_hashes": 1,
+        "hash_sample": "eafee20aba6c7c0be05df5641b17b7b215cac73804e2c0018d50236d2a1eb31a"
+      }
+    },
+    {
+      "test_id": "DET-02",
+      "category": "Determinism",
+      "description": "Different seeds produced 5/5 unique partition hashes",
+      "passed": true,
+      "details": {
+        "hashes": {
+          "1": "c6007d94ad9f49697e0902f302748c09679a0a8c9d29ddce3f61df5d7d8c1a06",
+          "2": "5b438ac973f8eed3907b7b6f4a3d0c1bbf426f5d41a07c6f69058ce37d66afc0",
+          "3": "95b23ee625e7c54ecce2052660cba796af71186cfc84869b1abe7bfc060bb948",
+          "42": "eafee20aba6c7c0be05df5641b17b7b215cac73804e2c0018d50236d2a1eb31a",
+          "999": "280ad2f2c0caa7fb586c79a1f0502479ddbade6e46d442f08322db8ed668724d"
+        }
+      }
+    },
+    {
+      "test_id": "DET-03",
+      "category": "Determinism",
+      "description": "Extreme seed values (0, -1, 2**31-1, 2**63-1) handled without overflow",
+      "passed": true,
+      "details": {
+        "errors": {}
+      }
+    },
+    {
+      "test_id": "QUAR-01",
+      "category": "Quarantine Isolation",
+      "description": "quarantine=True segregated into quarantine_samples with zero leakage into train/val/test",
+      "passed": true,
+      "details": {
+        "quarantine_count": 1
+      }
+    },
+    {
+      "test_id": "QUAR-02",
+      "category": "Quarantine Isolation",
+      "description": "is_pseudo_label=True segregated into quarantine_samples with zero leakage",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "test_id": "QUAR-03",
+      "category": "Quarantine Isolation",
+      "description": "quarantine_projects list properly segregates matching projects",
+      "passed": true,
+      "details": {
+        "quarantine_projects": [
+          "proj_2",
+          "proj_3"
+        ]
+      }
+    },
+    {
+      "test_id": "QUAR-04",
+      "category": "Quarantine Isolation",
+      "description": "assert_zero_leakage successfully caught quarantined project injected into val",
+      "passed": true,
+      "details": {
+        "error": "Quarantined project leaked into validation split: {'proj_0'}"
+      }
+    },
+    {
+      "test_id": "QUAR-05",
+      "category": "Quarantine Isolation",
+      "description": "assert_zero_leakage successfully caught quarantined project injected into test",
+      "passed": true,
+      "details": {
+        "error": "Quarantined project leaked into test split: {'proj_0'}"
+      }
+    },
+    {
+      "test_id": "QUAR-06",
+      "category": "Quarantine Isolation",
+      "description": "Sample-level is_pseudo_label in val_samples without quarantine_samples entry bypassed assert_zero_leakage (Finding)",
+      "passed": true,
+      "details": {
+        "finding": "assert_zero_leakage checks bundle.quarantine_samples set overlap, not inline sample.is_pseudo_label or sample.quarantine flags in val/test."
+      }
+    },
+    {
+      "test_id": "EXPORT-01",
+      "category": "Manifest Export",
+      "description": "All 5 manifests exported and reloaded with 100% hash and count parity",
+      "passed": true,
+      "details": {}
+    }
+  ]
+}
